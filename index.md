@@ -1,4 +1,4 @@
-# Inner I Net Company Welcomes All!
+# Inner I Net Company 
 
 [Shape Reality](http://innerinetcompany.shapereality/) with us by building the new internet. See our [HNS-DOMAINS/](http://home.hns-domains/). 
 

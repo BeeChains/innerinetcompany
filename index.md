@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/37987346/100304229-44ab9100-2f6c-11eb-8638-c93a8e0a413a.png)
+![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)
 
 [Shape Reality](http://innerinetcompany.shapereality/) with us by building the new internet. See our [HNS-DOMAINS/](http://home.hns-domains/). 
 

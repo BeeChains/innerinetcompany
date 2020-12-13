@@ -1,8 +1,10 @@
+## INNER I NET COMPANY
+
 ![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)
 
-[Shape Reality](http://innerinetcompany.shapereality/) with us by building the new internet. See our [HNS-DOMAINS/](http://home.hns-domains/). 
+[Shape Reality](http://innerinetcompany.shapereality/) with us by building the new internet. See our [HNS-DOMAINS/](http://home.hns-domains.hns.to/). 
 
--[Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!
+- [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!
 - [Inner I Net Company](https://innerinetcompany.webflow.io/) on WebFlow!
 
 Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)

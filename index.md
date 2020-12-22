@@ -1,17 +1,16 @@
-## INNER I NET COMPANY
+## [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/)
 | [Contact](https://innerinetcompany.webflow.icontacto) | [IINC](http://dlink.innerinetcompany.hns.to/) |
 
-![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)
+![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png) 
 
-[Shape Reality](http://innerinetcompany.shapereality/) with us by building the new internet. See our [HNS-DOMAINS/](http://home.hns-domains.hns.to/). 
+# At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), our Handshake Top Level Domains are Grown from the ROOT OF PERCEPTION! [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet.
+
+[Shape Reality](http://innerinetcompany.shapereality.hns.to/) with us by building the new internet. See our [HNS-DOMAINS/](http://home.hns-domains.hns.to/). 
 
 - [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!
 - [Inner I Net Company](https://innerinetcompany.webflow.io/) on WebFlow!
 
 Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
-
-<a href="https://www.producthunt.com/posts/custom-crypto-exchange?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-custom-crypto-exchange" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=133691&theme=light" alt="Custom Crypto Exchange - Monetize your crypto audience with easy steps | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /><
-
 
 
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)

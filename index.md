@@ -11,7 +11,8 @@ by [![image](https://user-images.githubusercontent.com/37987346/101912317-962066
 - [Inner I Net Company](https://innerinetcompany.webflow.io/) on WebFlow!
 - [Inner I Net Company](https://innerinetcompany.wordpress.com/) on WordPress!
 
-Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
+gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 
+Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
 
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)

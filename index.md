@@ -4,7 +4,7 @@
 by [![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)](https://innerinetcompany.webflow.io/contact)
 
 
-  # At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), we cultivate Divine Gifts to elevate the economics. We [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) as our Handshake top level domains are nourished and manifested from the ROOT OF PERCEPTION, to spiritualize potentials for an abundance of fruits. Our wish is healing presence both near and far via the World Wide Web. Our mission is to Unite by calling attention, rememberance, and the Will, To Be a Living Impression of the "I" Found Within the words, "I Am."
+  # At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), we cultivate Divine Gifts to elevate the economics. We [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) as our Handshake top level domains are nourished and manifested from the ROOT OF PERCEPTION, to spiritualize potentials for an abundance of fruits. Our wish is healing presence both near and far via the World Wide Web. Our mission is to Unite by calling attention, rememberance, and the Will, To Be indigenous of the "I" Found Within the words, "I Am."
 
 # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
 

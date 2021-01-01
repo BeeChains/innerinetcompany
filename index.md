@@ -1,6 +1,6 @@
 ## [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/)
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [Contact](https://innerinetcompany.webflow.icontacto) | [IINC](http://dlink.innerinetcompany.hns.to/) |
-by [![image](https://user-images.githubusercontent.com/37987346/103435642-81a81a80-4bdf-11eb-8fa0-1693decb5e36.png)](http://shapereality.innerinetcompany.hns.to/)
+by [](http://shapereality.innerinetcompany.hns.to/)
 
 
  

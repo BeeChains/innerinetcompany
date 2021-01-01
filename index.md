@@ -1,7 +1,7 @@
 ## [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/)
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [Contact](https://innerinetcompany.webflow.icontacto) | [IINC](http://dlink.innerinetcompany.hns.to/) |
 
-by [](https://innerinetcompany.webflow.io/contact)
+by [![image](https://user-images.githubusercontent.com/37987346/103435642-81a81a80-4bdf-11eb-8fa0-1693decb5e36.png)](http://shapereality.innerinetcompany.hns.to/)
 
 
   # At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), our Mission is the expression of the "I" in every Individual.

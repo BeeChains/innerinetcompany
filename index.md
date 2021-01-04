@@ -1,4 +1,4 @@
-## [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/) | a Handshake(HNS) blockchain root level domain buisness that is dismantling the monopoly in 2021 by Looking Within, to the Source.
+## [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/) | a first Handshake(HNS) blockchain root level domain buisness that is dismantling the monopoly in 2021 by Looking Within, to the Source. Handshake helps resolve self sovereignty by allowing true ownership of authentic web space vs. renting a temporary identity on the internet. 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [IINC](http://dlink.innerinetcompany.hns.to/) |
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 

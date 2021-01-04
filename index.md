@@ -20,11 +20,17 @@ Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
 
 # Learn about [Handshake.org](https://handshake.org/)
+
+ - [Handshake Developer Documentation](https://hsd-dev.org/guides/resource-records.html)
  - [Handshake dismantling the monopoly 2020](https://www.producthunt.com/posts/handshake-hns) by Tieshun
  - [Why are we still renting domains?](https://jaywuzer.medium.com/why-are-we-still-renting-domains-eefd45a4de1c) by JonnyWu
  - [Why RENT subdomains when you can OWN top-level domains? Handshake (HNS)](https://youtu.be/FMsEgf3sb68/) by JonnyWu on YouTube
  - [Internet Marketing Strategies For Using Handshake (HNS) Domains & sites](https://youtu.be/fWZHMxFrUlw/) by Sky Include
- 
+ - [Handshake Protocol, HNS mining full node](https://youtu.be/fIDnZaf6lV4/) 
+ - [Resolving HNS names using DNS-over-HTTPS](https://matthewzipkin.medium.com/resolving-hns-names-using-dns-over-https-94643fe62ecd/) by Matthew Zipkin
+ - [Easyhandshake.com](https://easyhandshake.com/) by Matthew Zipkin
+ - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
+ https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
  # Learn SEO
 -  What is a [Backlink](https://backlinko.com/hub/seo/backlinks)?
 -  Discover what was learned about SEO after analyzing 11.8 million search results from Google. Go here [BackLinko.com](https://backlinko.com/search-engine-ranking/).

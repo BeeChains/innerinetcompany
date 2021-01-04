@@ -25,6 +25,7 @@
  - [Handshake Protocol, HNS mining full node](https://youtu.be/fIDnZaf6lV4/) 
  - [Resolving HNS names using DNS-over-HTTPS](https://matthewzipkin.medium.com/resolving-hns-names-using-dns-over-https-94643fe62ecd/) by Matthew Zipkin
  - [Easyhandshake.com](https://easyhandshake.com/) by Matthew Zipkin
+ - [YHNSOO](https://yhnsoo.com/sites_by_web_rank/) Handshake Sites with most inbound links.
  - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
  https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
 

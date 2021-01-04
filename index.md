@@ -1,4 +1,4 @@
-## [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/)
+## [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/) | a Handshake blockchain root level domain
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [IINC](http://dlink.innerinetcompany.hns.to/) |
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 
@@ -18,6 +18,8 @@ gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
 
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
+
+# Learn about [Handshake.org](https://handshake.org/)
 
 # Learn SEO
 -  What is a [Backlink](https://backlinko.com/hub/seo/backlinks)?

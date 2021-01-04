@@ -1,3 +1,3 @@
 
-# This is a Handshake Domain in 2021?
-
+# This is a Handshake(HNS) Domain 
+INNER I NET COMPANY

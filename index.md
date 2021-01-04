@@ -4,7 +4,7 @@
 
 
 # "I" As The Center Of Gravity Is The Seat Of Unity. 
- # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception/](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
+ # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
 
   
 - [InnerINetCompany.MyBigCommerce](https://innerinetcompany.mybigcommerce.com/) Store

@@ -5,7 +5,7 @@ We are changing the world wide web one I and Handshake at a time.
 - "Knowledge is a possession of the mind, Truth is experience of the soul. The "I" of the material mind perceives only a world of factual knowledge, but the "I" of spiritualized intellect discerns a world of true values." [Urantia Book](https://youtu.be/U8QF2u5aw5o?t=1719)
 # "I" As The Center Of Gravity Is The Seat Of Unity. 
  # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
-
+# The "I" of All-Conquering Spirit, the Omniscient, Omnipotent and Omnipresent Spark Within us is a drop of burning desire, rippling into a wave as The Great Awakening of the individual soul. Awaken, and The Word becomes The Flame set a blaze with self-expression of The Holy Spirit.
   
 - [InnerINetCompany.MyBigCommerce](https://innerinetcompany.mybigcommerce.com/) Store
 - [ Inner I Net Company](https://innerinetcompany-store.vercel.app/) Vercel App

@@ -6,7 +6,9 @@ We are changing the world wide web one I and Handshake at a time.
 # "I" As The Center Of Gravity Is The Seat Of Unity, At The Center One Can See The Infinite.
  # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
 # The "I" of All-Conquering Spirit, the Omniscient, Omnipotent and Omnipresent Spark Within us is a drop of burning desire, rippling into a wave as The Great Awakening of the individual soul. Choose To BE AWAKE! NOW, presence a blaze, the All-Consuming Flame is seen as self-expression flowing from The Holy Spirit.
-  
+
+# Jesus said [34 The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness](https://www.kingjamesbibleonline.org/Luke-11-34/) 
+
 - [InnerINetCompany.MyBigCommerce](https://innerinetcompany.mybigcommerce.com/) Store
 - [ Inner I Net Company](https://innerinetcompany-store.vercel.app/) Vercel App
 - [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!

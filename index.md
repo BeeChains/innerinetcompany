@@ -1,5 +1,5 @@
 ## ![image](https://user-images.githubusercontent.com/37987346/104695697-2431c480-56db-11eb-8c43-0c1e00398c2e.png) [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/) | We are here to assist you with Handshake(HNS) in 2021, the biggest thing since Bitcoin. [Official.OwnTheWeb3/](http://official.owntheweb3.hns.to/), we ["Shape Reality"](http://innerinetcompany.shapereality.hns.to/) by establishing the "I" as the center of gravity. We are changing the world through the unchanging "I." Decentralized DNS websites with Handshake(HNS) blockchain root level domains that direct one to the root of perception, the Source Within, what we term our "I." Handshake helps us resolve self-sovereign identity by allowing true ownership of authentic web space vs. renting domains on the internet.
-| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [IINC](http://dlink.innerinetcompany.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) |
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [IINC](http://dlink.innerinetcompany.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@HNSDOMAINS](https://twitter.com/hnsdomains)
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 We are changing the world wide web one I and Handshake at a time.
 - "Knowledge is a possession of the mind, Truth is experience of the soul. The "I" of the material mind perceives only a world of factual knowledge, but the "I" of spiritualized intellect discerns a world of true values." [Urantia Book](https://youtu.be/U8QF2u5aw5o?t=1719)
@@ -31,10 +31,15 @@ We are changing the world wide web one I and Handshake at a time.
  - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
  https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
 
-# Learn SEO
+# Get [Top-SEO-2021/](http://top-seo-2021.hns.to/)
+- [WHAT IS SEO/](http://whatisseo.hns.to/)
+- [HOW TO SEO/](http://howtoseo.hns.to/)
 -  What is a [Backlink](https://backlinko.com/hub/seo/backlinks)?
 -  Discover what was learned about SEO after analyzing 11.8 million search results from Google. Go here [BackLinko.com](https://backlinko.com/search-engine-ranking/).
 -  Sign-up [BACKLINKO](https://backlinko.com/newsletter).
+- [HANDSHAKE-SEO/](http://handshake-seo.hns.to/)
+- [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization.hns.to/)
+- [Dweb-SEO/](http://dweb-seo.hns.to/)
 
 gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 

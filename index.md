@@ -1,5 +1,5 @@
 ## ![image](https://user-images.githubusercontent.com/37987346/104695697-2431c480-56db-11eb-8c43-0c1e00398c2e.png) [INNER I NET COMPANY](http://shapereality.innerinetcompany.hns.to/) | We are here to assist you with Handshake(HNS) in 2021, the biggest thing since Bitcoin. [Official.OwnTheWeb3/](http://official.owntheweb3.hns.to/), we ["Shape Reality"](http://innerinetcompany.shapereality.hns.to/) by establishing the "I" as the center of gravity. We are changing the world through the unchanging "I." Decentralized DNS websites with Handshake(HNS) blockchain root level domains that direct one to the root of perception, the Source Within, what we term our "I." Handshake helps us resolve self-sovereign identity by allowing true ownership of Digital Internet Property.
-| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [IINC](http://dlink.innerinetcompany.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@HNSDOMAINS](https://twitter.com/hnsdomains)
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.to/) | [IINC](http://dlink.innerinetcompany.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@HNSDOMAINS](https://twitter.com/hnsdomains)
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 We are changing the world wide web one I and Handshake at a time.
 - "Knowledge is a possession of the mind, Truth is experience of the soul. The "I" of the material mind perceives only a world of factual knowledge, but the "I" of spiritualized intellect discerns a world of true values." [Urantia Book](https://youtu.be/U8QF2u5aw5o?t=1719)
@@ -9,7 +9,7 @@ We are changing the world wide web one I and Handshake at a time.
 
 # Jesus said [34 The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness](https://www.kingjamesbibleonline.org/Luke-11-34/) 
 
-- [InnerINetCompany.MyBigCommerce](https://innerinetcompany.mybigcommerce.com/) Store
+- [shop.innerinetcompany](http://shop.innerinetcompany.hns.to/) My Big Commerce Store
 - [ Inner I Net Company](https://innerinetcompany-store.vercel.app/) Vercel App
 - [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!
 - [Inner I Net Company](https://innerinetcompany.webflow.io/) on WebFlow!

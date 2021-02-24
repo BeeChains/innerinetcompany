@@ -36,13 +36,16 @@ We are changing the world wide web one I and Handshake at a time.
 - [HOW TO SEO/](http://howtoseo.hns.to/)
 -  What is a [Backlink](https://backlinko.com/hub/seo/backlinks)?
 -  Discover what was learned about SEO after analyzing 11.8 million search results from Google. Go here [BackLinko.com](https://backlinko.com/search-engine-ranking/).
--  Sign-up [BACKLINKO](https://backlinko.com/newsletter).
 - [HANDSHAKE-SEO/](http://handshake-seo.hns.to/)
 - [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization.hns.to/)
 - [Dweb-SEO/](http://dweb-seo.hns.to/)
 
-gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
+Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 
 Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
 
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
+ 
+Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/my/profile) Or scan this QR code!
+
+ ![image](https://user-images.githubusercontent.com/37987346/108932014-a389b080-7616-11eb-9662-07ef328f7250.png)

@@ -52,4 +52,4 @@ Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
  
 Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420) Or scan this QR code!
 
- ![image](https://user-images.githubusercontent.com/37987346/108932014-a389b080-7616-11eb-9662-07ef328f7250.png)
+ ![pp_my_qrcode_tip_only_1628914858291](https://user-images.githubusercontent.com/37987346/129433860-e1d66b70-0f73-4cad-ab20-249018bb06ec.jpg)

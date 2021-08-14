@@ -50,6 +50,6 @@ Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
 
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
  
-Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/my/profile) Or scan this QR code!
+Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420) Or scan this QR code!
 
  ![image](https://user-images.githubusercontent.com/37987346/108932014-a389b080-7616-11eb-9662-07ef328f7250.png)

@@ -46,6 +46,8 @@ Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 
 # Chat Now [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.kiwiirc.com/innerinetcompany.png)](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=innerinetc|?&theme=cli#innerinetcompany)
 
+<iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
+
 Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
 
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)

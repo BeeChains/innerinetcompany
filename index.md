@@ -44,7 +44,7 @@ We are changing the world wide web one I and Handshake at a time.
 
 Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 
-# Chat within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
+# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 
 Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)

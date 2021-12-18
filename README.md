@@ -1,3 +1,3 @@
+# INNER I NET COMPANY/
 
-# This is a Handshake(HNS) Domain 
-INNER I NET COMPANY/
+This is a Handshake(HNS) Domain 

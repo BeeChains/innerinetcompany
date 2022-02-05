@@ -1,9 +1,11 @@
 ## [INNER I NET COMPANY/](http://shapereality.innerinetcompany.hns.to/) 🤝 | Handshake($HNS) 2022. Handshake is decentralized DNS to the internet, like Bitcoin is to money.
 
-[Official.OwnTheWeb3/](http://official.owntheweb3.hns.to/), we ["Shape Reality"](http://innerinetcompany.shapereality.hns.to/) by establishing the "I" as the center of gravity. We are changing the world through the unchanging "I." Decentralized DNS websites with Handshake(HNS) blockchain root level domains that direct one to the root of perception, the Source Within, what we term Inner "I." Handshake helps us resolve self-sovereign identity by allowing true ownership of Digital Internet Property.
+## Changing the world through the unchanging "I." 
+Each of our websites use decentralized DNS on the Handshake($HNS) blockchain and was intentionally designed to gravitate Ones attention towards the root of perception, the Source and Creator Within, or what we like to  term The Inner "I." Handshake helps us resolve self-sovereign identity by allowing true ownership of Digital Internet Potentials.
 
-| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.to/) | [IINC](http://dlink.innerinetcompany.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.to/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) |
- [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.is/) | [IINC](http://dlink.innerinetcompany.hns.is/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | 
+# [*innerinetcompany](https://app.starname.me/manager/view/*innerinetcompany)
+ [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.nnerinetcompany.hns.to/)
 We are changing the world wide web one I and Handshake at a time.
 - "Knowledge is a possession of the mind, Truth is experience of the soul. The "I" of the material mind perceives only a world of factual knowledge, but the "I" of spiritualized intellect discerns a world of true values." [Urantia Book](https://youtu.be/U8QF2u5aw5o?t=1719)
 ## ☀Notitiam In Conscientia - Knowledge In Awareness☀  
@@ -56,6 +58,5 @@ Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
 
 [Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
  
-Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420) Or scan this QR code!
+Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 
- ![pp_my_qrcode_tip_only_1628914858291](https://user-images.githubusercontent.com/37987346/129433860-e1d66b70-0f73-4cad-ab20-249018bb06ec.jpg)

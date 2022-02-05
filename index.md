@@ -1,5 +1,5 @@
-## [INNER I NET COMPANY/](http://shapereality.innerinetcompany.hns.to/) 🤝 | We are here to assist you with Handshake(HNS) in 2021. Handshake is decentralized DNS to the internet like Bitcoin is to money. [Official.OwnTheWeb3/](http://official.owntheweb3.hns.to/), we ["Shape Reality"](http://innerinetcompany.shapereality.hns.to/) by establishing the "I" as the center of gravity. We are changing the world through the unchanging "I." Decentralized DNS websites with Handshake(HNS) blockchain root level domains that direct one to the root of perception, the Source Within, what we term our "I." Handshake helps us resolve self-sovereign identity by allowing true ownership of Digital Internet Property.
-| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.to/) | [IINC](http://dlink.innerinetcompany.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.to/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno)
+## [INNER I NET COMPANY/](http://shapereality.innerinetcompany.hns.to/) 🤝 | We are here to assist you with Handshake(HNS) in 2022. Handshake is decentralized DNS to the internet like Bitcoin is to money. [Official.OwnTheWeb3/](http://official.owntheweb3.hns.to/), we ["Shape Reality"](http://innerinetcompany.shapereality.hns.to/) by establishing the "I" as the center of gravity. We are changing the world through the unchanging "I." Decentralized DNS websites with Handshake(HNS) blockchain root level domains that direct one to the root of perception, the Source Within, what we term our "I." Handshake helps us resolve self-sovereign identity by allowing true ownership of Digital Internet Property.
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.to/) | [IINC](http://dlink.innerinetcompany.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.to/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) |
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 We are changing the world wide web one I and Handshake at a time.
 - "Knowledge is a possession of the mind, Truth is experience of the soul. The "I" of the material mind perceives only a world of factual knowledge, but the "I" of spiritualized intellect discerns a world of true values." [Urantia Book](https://youtu.be/U8QF2u5aw5o?t=1719)
@@ -13,7 +13,7 @@ We are changing the world wide web one I and Handshake at a time.
 
 # Jesus said [34 The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness](https://www.kingjamesbibleonline.org/Luke-11-34/) 
 
-- [shop.innerinetcompany](http://shop.innerinetcompany.hns.to/) My Big Commerce Store
+- [shop.innerinetcompany](http://shop.innerinetcompany.hns.is/) My Big Commerce Store
 - [ Inner I Net Company](https://innerinetcompany-store.vercel.app/) Vercel App
 - [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!
 - [Inner I Net Company](https://innerinetcompany.webflow.io/) on WebFlow!
@@ -35,14 +35,14 @@ We are changing the world wide web one I and Handshake at a time.
  - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
  https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
 
-# Get [Top-SEO-2021/](http://top-seo-2021.hns.to/)
-- [WHAT IS SEO/](http://whatisseo.hns.to/)
-- [HOW TO SEO/](http://howtoseo.hns.to/)
+
+- [WHAT IS SEO/](http://whatisseo.hns.is/)
+- [HOW TO SEO/](http://howtoseo.hns.is/)
 -  What is a [Backlink](https://backlinko.com/hub/seo/backlinks)?
 -  Discover what was learned about SEO after analyzing 11.8 million search results from Google. Go here [BackLinko.com](https://backlinko.com/search-engine-ranking/).
-- [HANDSHAKE-SEO/](http://handshake-seo.hns.to/)
-- [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization.hns.to/)
-- [Dweb-SEO/](http://dweb-seo.hns.to/)
+- [HANDSHAKE-SEO/](http://handshake-seo.hns.is)
+- [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization/)
+- [Dweb-SEO/](http://dweb-seo/)
 
 Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 

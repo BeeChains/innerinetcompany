@@ -7,7 +7,9 @@ Each of our websites use decentralized DNS on the Handshake($HNS) blockchain and
 <script src="https://static.like.co/sdk/v1/button.js"></script>
 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.is/) | [IINC](http://dlink.innerinetcompany.hns.is/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | 
+
 # [*innerinetcompany](https://app.starname.me/manager/view/*innerinetcompany)
+
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 We are changing the world wide web one I and Handshake at a time.
 - "Knowledge is a possession of the mind, Truth is experience of the soul. The "I" of the material mind perceives only a world of factual knowledge, but the "I" of spiritualized intellect discerns a world of true values." [Urantia Book](https://youtu.be/U8QF2u5aw5o?t=1719)
@@ -58,9 +60,6 @@ Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 # Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 
-Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
-
-[Buy, Sell, or Trade here ![image](https://user-images.githubusercontent.com/37987346/97064635-5a94f300-1575-11eb-93ae-fc71560b1571.png)](https://paxful.com/roots/buy-bitcoin/index?kiosk=WDZdGMqXk7M)
  
 Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 

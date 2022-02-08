@@ -57,7 +57,7 @@ Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 # Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 
- <iframe src="http://chat.efnet.org:9090/?channels=cjdns%2Canonchannel%2Cinneri%26company%2Chandshake" width="647" height="400"></iframe>
+ <iframe src="http://chat.efnet.org:9090/?channels=handshake%2Ccjdns&uio=d4" width="647" height="400"></iframe>
  
 Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 

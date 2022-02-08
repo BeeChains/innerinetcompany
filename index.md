@@ -60,7 +60,6 @@ Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
  
 Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>LikeCoin button SDK demo</title>

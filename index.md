@@ -59,7 +59,7 @@ Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 
  <iframe src="http://chat.efnet.org:9090/?channels=handshake%2Ccjdns&uio=d4" width="647" height="400"></iframe>
  
-Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
+ Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 
 <html lang="en">
 <head>
@@ -70,3 +70,5 @@ Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypal
 <script src="https://static.like.co/sdk/v1/button.js"></script>
 </body>
 </html>
+
+<iframe src="http://webchat.ircnet.net/?channels=handshake%2Cinneri%26company%2Cfreenode%2Ccjdns&uio=MT11bmRlZmluZWQb1" width="647" height="400"></iframe>

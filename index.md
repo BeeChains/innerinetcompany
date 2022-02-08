@@ -64,3 +64,13 @@ Use [MySpirtWave Crypto Exchange](https://exchange.myspiritwave.xyz/)
  
 Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>LikeCoin button SDK demo</title>
+</head>
+<body>
+<div class="likecoin-embed likecoin-button" data-liker-id="innerinetcompany" data-href="https://liker.land/innerinetcompany/"></div>
+<script src="https://static.like.co/sdk/v1/button.js"></script>
+</body>
+</html>

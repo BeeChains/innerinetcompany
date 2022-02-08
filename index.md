@@ -5,7 +5,7 @@ Each of our websites use decentralized DNS on the Handshake($HNS) blockchain and
 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.is/) | [IINC](http://dlink.innerinetcompany.hns.is/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | 
 
-# [*innerinetcompany](https://app.starname.me/manager/view/*innerinetcompany)
+# *[innerinetcompany](https://app.starname.me/manager/view/*innerinetcompany)
 
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 We are changing the world wide web one I and Handshake at a time.

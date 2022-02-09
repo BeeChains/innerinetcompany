@@ -53,12 +53,7 @@ We are changing the world wide web one I and Handshake at a time.
 - [Dweb-SEO/](http://dweb-seo/)
 
 Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
-
-# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
-<iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
-
-
-  Contribute to "THE CAUSE" using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
+Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 
 <html lang="en">
 <head>
@@ -69,5 +64,9 @@ Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 <script src="https://static.like.co/sdk/v1/button.js"></script>
 </body>
 </html>
+
+# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
+<iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
+
 
 <iframe src="http://webchat.ircnet.net/?channels=freenode%2Chandshake%2Cinneri%26company%2Ccjdns%2Cpkt%2Cscrtnetwork&uio=MT11bmRlZmluZWQb1" width="647" height="400"></iframe>

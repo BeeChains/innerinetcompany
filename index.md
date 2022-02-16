@@ -1,14 +1,17 @@
 ## [Inner I Net Company/](http://shapereality.innerinetcompany.hns.to/) 🤝 | Handshake($HNS) 2022. Handshake is decentralized DNS to the internet, like ₿itcoin($BTC) is to money.
-
-
- ___                  ___                  _                          
-  |  ._  ._   _  ._    |    |\ |  _ _|_   /   _  ._ _  ._   _. ._     
- _|_ | | | | (/_ |    _|_   | \| (/_ |_   \_ (_) | | | |_) (_| | | \/ 
-                                                       |           /  
-    
-    
-    
-    
+ 
+       
+    IIIII                                  IIIII    NN   NN        tt        CCCCC                                                     
+     III  nn nnn  nn nnn    eee  rr rr      III     NNN  NN   eee  tt       CC    C  oooo  mm mm mmmm  pp pp     aa aa nn nnn  yy   yy 
+     III  nnn  nn nnn  nn ee   e rrr  r     III     NN N NN ee   e tttt     CC      oo  oo mmm  mm  mm ppp  pp  aa aaa nnn  nn yy   yy 
+     III  nn   nn nn   nn eeeee  rr         III     NN  NNN eeeee  tt       CC    C oo  oo mmm  mm  mm pppppp  aa  aaa nn   nn  yyyyyy 
+    IIIII nn   nn nn   nn  eeeee rr        IIIII    NN   NN  eeeee  tttt     CCCCC   oooo  mmm  mm  mm pp       aaa aa nn   nn      yy 
+                                                                                                      pp                       yyyyy  
+       
+       
+       
+                                                                                           
+                 
 ## Changing the world through the unchanging "I." 
 Each of our websites use decentralized DNS on the Handshake($HNS) blockchain and were intentionally designed to gravitate Ones attention towards the root of perception, the Source, the Creator Within, or what we like to term The Inner "I." Handshake helps individuals resolve self-sovereign identity by allowing True Ownership of Digital Internet Potentials.
 

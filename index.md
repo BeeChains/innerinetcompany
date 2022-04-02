@@ -16,6 +16,11 @@
 Each of our websites use decentralized DNS on the Handshake($HNS) blockchain and were intentionally designed to gravitate Ones attention towards the root of perception, the Source, the Creator Within, or what we like to term The Inner "I." Handshake helps individuals resolve self-sovereign identity by allowing True Ownership of Digital Internet Potentials.
 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.is/) | [IINC/](http://official.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org)
+<form action="http://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
+Find your Domain: <input type="text" name="query" size="20" />
+<input type="submit" value="Go" />
+</form>
+
 
 # *[innerinetcompany](https://app.starname.me/profile/*innerinetcompany)
 

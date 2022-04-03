@@ -17,9 +17,9 @@ Each of our websites use decentralized DNS on the Handshake($HNS) blockchain and
 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [SHOP.INW](http://shop.inw.hns.is/) | [IINC/](http://official.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org)
 
-<a href="http://wagmi.dworldwideweb.com/register.php">Click here to register with us</a>
+<a href="http://wagmi.dworldwideweb.com/register.php">Click here to register at WAGMI.dWorldWideWeb.com</a>
 
-<form action="http://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
+<form action="https://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
 Find your Domain: <input type="text" name="query" size="20" />
 <input type="submit" value="Go" />
 </form>

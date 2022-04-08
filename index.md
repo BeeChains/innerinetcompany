@@ -53,7 +53,7 @@ We are changing the world wide web one I and Handshake at a time.
 
  - [Handshake Developer Documentation](https://hsd-dev.org/guides/resource-records.html)
  - [Handshake dismantling the monopoly 2020](https://www.producthunt.com/posts/handshake-hns) by Tieshun
- - [Why are we still renting domains?](https://jaywuzer.medium.com/why-are-we-still-renting-domains-eefd45a4de1c) by JonnyWu
+ - [Why are we still renting domains?](https://jaywuzer.medium.com/why-are-we-still-renting-domains-eefd45a4de1c) by Namer JohnnyWu
  - [Why RENT subdomains when you can OWN top-level domains? Handshake (HNS)](https://youtu.be/FMsEgf3sb68/) by JonnyWu on YouTube
  - [Internet Marketing Strategies For Using Handshake (HNS) Domains & sites](https://youtu.be/fWZHMxFrUlw/) by Sky Include
  - [Handshake Protocol, HNS mining full node](https://youtu.be/fIDnZaf6lV4/) 

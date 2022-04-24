@@ -25,7 +25,8 @@ Find your Domain: <input type="text" name="query" size="20" />
 </form>
 
 
-# *[innerinetcompany](https://app.starname.me/profile/*innerinetcompany)
+
+# *[innerinetcompany](https://app.starname.me/profile/*innerinetcompany) for payments to us with Starname!
 
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 We are changing the world wide web one I and Handshake at a time.

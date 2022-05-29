@@ -47,6 +47,9 @@ We are changing the world wide web one I and Handshake at a time.
 - [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!
 - [Inner I Net Company](https://innerinetcompany.webflow.io/) on WebFlow!
 - [Inner I Net Company](https://innerinetcompany.wordpress.com/) on WordPress!
+- [InnerINetCo/](https://innerinetco/) self-signed cert for ssl 🔒 on our Handshake Domain run by PowerDNS + Nginx 
+- [InnerINetwork/](https://innerinetwork/) self-signed cert for ssl 🔒 on our Handshake Domain hosted on our HandshakeNS run by PowerDNS + Nginx
+- http://[200:1bc6:7d38:693c:a115:cd53:9181:186d](http://[200:1bc6:7d38:693c:a115:cd53:9181:186d]) our site innerinetwork.ygg - Yggdrasil must be running to resolve this site, if so you can run this cmd; $curl -v --resolve innerinetwork.ygg:80:\[200:1bc6:7d38:693c:a115:cd53:9181:186d\] http://innerinetwork.ygg
 
 
 
@@ -58,6 +61,7 @@ We are changing the world wide web one I and Handshake at a time.
  - [Why RENT subdomains when you can OWN top-level domains? Handshake (HNS)](https://youtu.be/FMsEgf3sb68/) by JonnyWu on YouTube
  - [Internet Marketing Strategies For Using Handshake (HNS) Domains & sites](https://youtu.be/fWZHMxFrUlw/) by Sky Include
  - [Handshake Protocol, HNS mining full node](https://youtu.be/fIDnZaf6lV4/) 
+ - [Handshake Tools Blog - HNS + PowerDNS + Nginx + Dane - for the self-sovereign](https://blog.htools.work/posts/hns-pdns-nginx/) 🤝 Thanks so much to Rithvik Vibhu and Nathan Woodburn 
  - [Resolving HNS names using DNS-over-HTTPS](https://matthewzipkin.medium.com/resolving-hns-names-using-dns-over-https-94643fe62ecd/) by Matthew Zipkin
  - [Easyhandshake.com](https://easyhandshake.com/) by Matthew Zipkin
  - [YHNSOO](https://yhnsoo.com/sites_by_web_rank/) Handshake Sites with most inbound links.

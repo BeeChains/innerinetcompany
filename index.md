@@ -1,4 +1,4 @@
-## [Inner I Net Company/](http://shapereality.innerinetcompany.hns.to/) 🤝 | Handshake($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money.
+## [Inner I Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸 🤝 Handshake($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money.
  
        
     IIIII                                  IIIII    NN   NN        tt        CCCCC                                                     

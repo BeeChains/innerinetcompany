@@ -11,7 +11,7 @@
        
        
                                                                                            
-                 
+## Welcome and Hello! [IAm.BarronD/](http://iam.barrond/) or HNS bridged [IAm.BarronD.hns.is/](http://iam.barrond.hns.is/)                
 ## Changing the world through the unchanging "I." 
 Each of our websites use a decentralized DNS root zone on the Handshake($HNS) blockchain and were intentionally designed to gravitate Ones attention towards the root of perception, the Source, the Creator Within, or what I like to term The Inner "I." Handshake helps individuals resolve self-sovereign identity by allowing True Ownership of Digital Internet Potentials. We endeavor to find a name that has inner meaning to you! Let's Handshake ($HNS) 🤝!
 

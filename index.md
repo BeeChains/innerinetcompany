@@ -41,7 +41,7 @@ We are changing the world wide web one I and Handshake at a time.
 ## ❤Conscius In Unum - Conscious of The One Within❤
 # [Jesus replied: “ ‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’ All the Law and the Prophets hang on these two commandments.”](https://www.bible.com/bible/111/MAT.22.37-40.NIV)
 # "I" As The Center Of Gravity Is The Seat Of Unity, At The Center One Can See The Infinite.
- # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
+# [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
 # The "I" of All-Conquering Spirit, the Omniscient, Omnipotent and Omnipresent Spark Within us is a drop of burning desire, rippling into a wave as The Great Awakening of the individual soul. Choose To BE AWAKE! NOW, presence a blaze, the All-Consuming Flame is seen as self-expression flowing from The Holy Spirit.
 
 # Jesus said [34 The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness](https://www.kingjamesbibleonline.org/Luke-11-34/) 
@@ -74,6 +74,9 @@ We are changing the world wide web one I and Handshake at a time.
  - [Resolving HNS names using DNS-over-HTTPS](https://matthewzipkin.medium.com/resolving-hns-names-using-dns-over-https-94643fe62ecd/) by Matthew Zipkin
  - [Easyhandshake.com](https://easyhandshake.com/) by Matthew Zipkin
  - [YHNSOO](https://yhnsoo.com/sites_by_web_rank/) Handshake Sites with most inbound links.
+ - [Block1.HandshakeNFT/](http://block1.handshakenft.hns.is/)
+ - [BTC.HandshakeNFT/](http://btc.handshakenft.hns.is/) 🔄 [HandshakeNFT.BTC](http://handshakenft.btc.us/)
+ - [The Handshake Tarot](https://TheHandshakeTarot/) by [@MatthewZipkin](https://twitter.com/MatthewZipkin/status/1493634285307322372)
  - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
  https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
 

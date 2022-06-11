@@ -11,8 +11,12 @@
        
        
                                                                                            
-## Welcome and Hello! [IAm.BarronD/](http://iam.barrond/) or HNS bridged [IAm.BarronD.hns.is/](http://iam.barrond.hns.is/)                
-## Changing the world through the unchanging "I." 
+# Welcome to #dWeb and Hello! 
+From. . .
+## [LordBarron/](http://lordbarron.hns.is/)
+## [IAm.BaronBarron](http://iam.baronbarron/) or HNS bridged [IAm.BaronBarron.hns.is/](http://iam.baronbarron.hns.is/)
+## [IAm.BarronD/](http://iam.barrond/) or HNS bridged [IAm.BarronD.hns.is/](http://iam.barrond.hns.is/)
+# Changing the world through the unchanging "I." 
 Each of our websites use a decentralized DNS root zone on the Handshake($HNS) blockchain and were intentionally designed to gravitate Ones attention towards the root of perception, the Source, the Creator Within, or what I like to term The Inner "I." Handshake helps individuals resolve self-sovereign identity by allowing True Ownership of Digital Internet Potentials. We endeavor to find a name that has inner meaning to you! Let's Handshake ($HNS) 🤝!
 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.is/) | [IINC/](http://official.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | 

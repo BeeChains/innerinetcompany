@@ -53,6 +53,8 @@ We are changing the world wide web one I and Handshake at a time.
 - [Inner I Net Company](https://innerinetcompany.wordpress.com/) on WordPress!
 - [InnerINetCo/](https://innerinetco/) self-signed cert for ssl 🔒 on our Handshake Domain run by PowerDNS + Nginx + DANE
 - [InnerINetwork/](https://innerinetwork/) self-signed cert for ssl 🔒 on our Handshake Domain hosted on our HandshakeNS run by PowerDNS + Nginx + DANE
+- [InnerINetwork/i](https://innerinetwork/i)
+- [InnerINetwork/Nomic](https://innerinetwork/nomic)
 - [200:1bc6:7d38:693c:a115:cd53:9181:186d](http://[200:1bc6:7d38:693c:a115:cd53:9181:186d]) our site innerinetwork.ygg - Yggdrasil must be running to resolve this site in your browser, also you may could run this cmd; 
  $curl -v --resolve innerinetwork.ygg:80:\[200:1bc6:7d38:693c:a115:cd53:9181:186d\] http://innerinetwork.ygg
  - [Validator.InnerICoNomic](http://validator.innericonomic.hns.is/)

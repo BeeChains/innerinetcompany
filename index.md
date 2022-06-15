@@ -89,9 +89,6 @@ We are changing the world wide web one I and Handshake at a time.
 - [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization/)
 - [Dweb-SEO/](http://dweb-seo/)
 
-Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
-Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
-
 <html lang="en">
 <head>
     <title>LikeCoin button SDK demo</title>
@@ -102,6 +99,9 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 </body>
 </html>
 
+Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
+Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
+<div>
 <a href="https://coinrequest.io/request/kbZqkmEMHJ2vVhS" title="Payment request for 1000 Flux." target="_blank"><img src="https://coinrequest.io/img/buttons/coinrequest-payment-button-rocket.png" alt="CoinRequest button" /></a>
 
 # Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)

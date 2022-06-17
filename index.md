@@ -11,7 +11,7 @@
        
        
                                                                                            
-# Welcome to #dWeb and Hello! 
+# Welcome to [d🕸/](http://xn--d-rn3s.hns.is/) within Inner I Web [𓂀🕸/](http://xn--ts7ds574a.hns.is/)
 From. . .
 ## [LordBarron/](http://lordbarron.hns.is/)
 ## [IAm.BaronBarron](http://iam.baronbarron/) or HNS bridged [IAm.BaronBarron.hns.is/](http://iam.baronbarron.hns.is/)

@@ -18,6 +18,18 @@ From. . .
 ## [IAm.BarronD/](http://iam.barrond/) or HNS bridged [IAm.BarronD.hns.is/](http://iam.barrond.hns.is/)
 # ["But seek ye first the Kingdom (Consciousness) of God, and His righteousness (Right Ideas); and all these things will be added unto you."]( https://theimpersonallife.weebly.com/the-way-out.html)
 # Changing the world through the unchanging I. 
+["I!
+Who am I?
+I, Who speak with such seeming knowledge and authority?
+Listen!
+I AM You, that part of you who IS and KNOWS; WHO KNOWS ALL THINGS,
+And always knew, and always was.
+Yes, I AM You, Your SELF; that part of you who says I AM and is I AM;
+That transcendent, innermost part of you which quickens within as you read, which responds to this My Word, which perceives Its Truth, which recognizes all Truth and discards all error wherever found. Not that part which has been feeding on error all these years.
+For I AM your real Teacher, the only real one you will ever know, and the only MASTER;
+I, your Divine SELF.
+  I, the I AM of you, bring to you this My Message, My living Word, as I have brought to you everything in life, be it book or "Master" to teach you that I and I alone, your own True Self, AM The Teacher for you, the only Teacher and the only God, Who is and always has been providing you not only with the Bread and Wine of Life, but with all things needed for your physical, mental and spiritual growth and sustenance."]( https://zoboko.com/text/0x36evn5/joseph-benner-premium-collection-the-impersonal-life-the-way-out-the-way-beyond-brotherhood-the-way-to-the-kingdom-the-teacher-wealth/4)
+<div>
 Each of our websites use a decentralized DNS root zone on the Handshake($HNS) blockchain and were intentionally designed to gravitate Ones attention towards the root of perception, the Source, the Creator Within, or what I like to term The Inner "I." Handshake helps individuals resolve self-sovereign identity by allowing True Ownership of Digital Internet Potentials. We endeavor to find a name that has inner meaning to you! Let's Handshake ($HNS) 🤝!
 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.is/) | [IINC/](http://official.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) | [Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | 

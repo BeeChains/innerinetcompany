@@ -37,15 +37,6 @@ I, your Divine SELF.
 
 # Each of our websites use a decentralized DNS root zone on the Handshake($HNS) blockchain and were intentionally designed to gravitate Ones attention towards the root of perception, the Source, the Creator Within, or what I like to term The Inner "I." Handshake helps individuals resolve self-sovereign identity by allowing True Ownership of Digital Internet Potentials. We endeavor to find a name that has inner meaning to you! Let's Handshake ($HNS) 🤝!
 
-<a href="https://wagmi.dworldwideweb.com/register.php">Click here to register at WAGMI.dWorldWideWeb.com</a>
-
-<form action="https://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
-Find your Domain: <input type="text" name="query" size="20" />
-<input type="submit" value="Go" />
-</form>
-
-
-
 # *[innerinetcompany](https://app.starname.me/profile/*innerinetcompany) for payments to us with Starname!
 
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)

@@ -66,6 +66,8 @@ We are changing the world wide web one I and Handshake at a time.
 
 # Jesus said [34 The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness](https://www.kingjamesbibleonline.org/Luke-11-34/) 
 
+
+[![image](https://lh3.googleusercontent.com/V846uqn3Ohm5QJQIzvVXBz4I1pgGFTpiskWdvOY7ZP3Z0JSVORVmvy6x1zGIBblabQkyI_RkS7ETnb92YmZ0FgeUzUEPnwznE1i0ZA=s0)](https://innerinetwork/)
 - [shop.innerinetcompany](http://shop.innerinetcompany.hns.is/) My Big Commerce Store
 - [ Inner I Net Company](https://innerinetcompany-store.vercel.app/) Vercel App
 - [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!

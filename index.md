@@ -142,3 +142,12 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 
 
 <iframe src="http://webchat.ircnet.net/?channels=freenode%2Chandshake%2Cinneri%26company%2Ccjdns%2Cpkt%2Cscrtnetwork&uio=MT11bmRlZmluZWQb1" width="647" height="400"></iframe>
+  <div>
+<form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
+  <input type="hidden" name="amount" value="100" />
+  <input type="hidden" name="email" value="customer@example.com" />
+  <input type="hidden" name="orderId" value="CustomOrderId" />
+  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
+  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
+  <button type="submit">Buy now</button>
+</form>

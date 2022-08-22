@@ -21,8 +21,8 @@
        
    
    
- 
-   Money is older than the Hieroglyph written records of it on a ledger - [Op_Return.net](https://opreturn.net/3b2434062bd026c40e5b2138f01d6eccbee444247d14ff017ecdfe183c9f64fe)    
+# [MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/](http://moneylanguage.xn--5o7da03hnd9sv9apze.hns.is/)
+ Money is older than the Hieroglyph written records of it on a ledger - [Op_Return.net](https://opreturn.net/3b2434062bd026c40e5b2138f01d6eccbee444247d14ff017ecdfe183c9f64fe)    
    [![Hieroglyphics fonts](https://see.fontimg.com/api/renderfont4/rG7y/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/TW9uZXkgaXMgb2xkZXIgdGhhbiB0aGUgSGllcm9nbHlwaCB3cml0dGVuIHJlY29yZHMgb2YgaXQgb24gYSBsZWRnZXI/off-ancient-egyptian.png)](https://www.fontspace.com/category/hieroglyphs)       
           
 [Tweet to @innerinetco](https://twitter.com/intent/tweet?screen_name=innerinetco&ref_src=twsrc%5Etfw)  
@@ -39,7 +39,7 @@
      bgcolor="#020320"
 
      >
-AR.🐘🕸/
+AR.🐘🕸/ - MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ - InnerINetwork/ - powered by Handshake
 </marquee>
 <form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
   <input type="hidden" name="amount" value="100" />
@@ -47,7 +47,7 @@ AR.🐘🕸/
   <input type="hidden" name="orderId" value="CustomOrderId" />
   <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
   <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
-  <button type="submit">Buy now</button>
+  <button type="submit">Pay or Donate Here</button>
 </form>
 
 # Welcome to [d🕸/](http://xn--d-rn3s.hns.is/) within Inner I Web [𓂀🕸/](http://xn--ts7ds574a.hns.is/), our aim is to build from yet redirect one within and to trodden the Middle Path!
@@ -103,7 +103,7 @@ We are changing the world wide web one I and Handshake at a time.
 - [InnerINetwork/Nomic](https://innerinetwork/nomic)
 - [200:1bc6:7d38:693c:a115:cd53:9181:186d](http://[200:1bc6:7d38:693c:a115:cd53:9181:186d]) our site innerinetwork.ygg - Yggdrasil must be running to resolve this site in your browser, also you may could run this cmd; 
  $curl -v --resolve innerinetwork.ygg:80:\[200:1bc6:7d38:693c:a115:cd53:9181:186d\] http://innerinetwork.ygg
- - [Validator.InnerICoNomic](http://validator.innericonomic.hns.is/)
+ - [Validator.InnerICoNomic](http://validator.innericonomic.hns.is/) - NOT ACTIVE 🛑
   
 
 
@@ -163,5 +163,5 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
   <input type="hidden" name="orderId" value="CustomOrderId" />
   <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
   <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
-  <button type="submit">Buy now</button>
+  <button type="submit">Pay or Donate here</button>
 </form>

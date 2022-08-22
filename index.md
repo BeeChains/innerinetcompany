@@ -39,7 +39,7 @@
      bgcolor="#020320"
 
      >
-AR.🐘🕸/ - MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ - InnerINetwork/ - powered by Handshake
+AR.🐘🕸/ - MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ - InnerINetwork/ - powered by Handshake 🤝
 </marquee>
 <form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
   <input type="hidden" name="amount" value="100" />

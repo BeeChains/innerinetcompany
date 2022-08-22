@@ -28,7 +28,19 @@
 [Tweet to @innerinetco](https://twitter.com/intent/tweet?screen_name=innerinetco&ref_src=twsrc%5Etfw)  
           
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.is/) | [IINC/](http://official.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.is/) |      |[Pay.IINC/](http://pay.iinc.hns.is/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.is/) | InnerINetwork/ sats tip jar - [sats.iinc/](http://sats.iinc.hns.is/) | 
+<marquee
 
+     direction="left"
+     loop="7"
+     scrollamount="3"
+     scrolldelay="2"
+     behavior="left"
+     width="144%"
+     bgcolor="#020320"
+
+     >
+🐘🕸
+</marquee>
 <form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
   <input type="hidden" name="amount" value="100" />
   <input type="hidden" name="email" value="customer@example.com" />

@@ -51,7 +51,7 @@ AR.🐘🕸/ - MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ - InnerINetwork/ - Ha
 </form>
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://innerinetwork.gumroad.com/l/handshakenft">Buy on</a>
+<a class="gumroad-button" href="https://innerinetwork.gumroad.com/l/handshakenft">Buy and Download HandshakeNFT</a>
 
 # Welcome to [d🕸/](http://xn--d-rn3s.hns.is/) within Inner I Web [𓂀🕸/](http://xn--ts7ds574a.hns.is/), our aim is to build from yet redirect one within and to trodden the Middle Path!
 From. . .

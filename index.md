@@ -10,6 +10,26 @@
   gtag('config', 'G-RWBSP9CPL4');
 </script>
  </head>      
+   <script type="application/javascript" defer="defer">
+  (function () {
+    window.MashSettings = {
+      id: "09a8a185-df7e-4dfb-ae4f-86b940eaa9ba",
+    };
+    
+    var loader = function () {
+      window.Mash.init(window.MashSettings);
+    };
+    
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.async = true;
+    script.onload = loader;
+    script.src = "https://wallet.getmash.com/sdk/sdk.js";
+    
+    var head = document.getElementsByTagName("head")[0];
+    head.appendChild(script);
+  })();
+</script>
    
     IIIII                                  IIIII    NN   NN        tt        CCCCC                                                     
      III  nn nnn  nn nnn    eee  rr rr      III     NNN  NN   eee  tt       CC    C  oooo  mm mm mmmm  pp pp     aa aa nn nnn  yy   yy 

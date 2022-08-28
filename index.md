@@ -1,4 +1,4 @@
-## [Inner I Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸 🤝 Handshake($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money.
+## [Inner ⚕ I ⚕ Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸 🤝 Handshake($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money.
  <head>
  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RWBSP9CPL4"></script>
@@ -76,6 +76,8 @@ That transcendent, innermost part of you which quickens within as you read, whic
 For I AM your real Teacher, the only real one you will ever know, and the only MASTER;
 I, your Divine SELF.
   I, the I AM of you, bring to you this My Message, My living Word, as I have brought to you everything in life, be it book or "Master" to teach you that I and I alone, your own True Self, AM The Teacher for you, the only Teacher and the only God, Who is and always has been providing you not only with the Bread and Wine of Life, but with all things needed for your physical, mental and spiritual growth and sustenance."]( https://zoboko.com/text/0x36evn5/joseph-benner-premium-collection-the-impersonal-life-the-way-out-the-way-beyond-brotherhood-the-way-to-the-kingdom-the-teacher-wealth/4)
+
+# "Find out, Are they 60 billion I's, or there is only one "I" to which all the 60 billion bodies are referring to?" ~ Sri Ramana Maharshi ~ see quote: [innerinetwork/jnani/](https://innerinetwork/jnani/)
 
 # Each of our websites use a decentralized DNS root zone on the Handshake($HNS) blockchain and were intentionally designed to gravitate Ones attention towards the root of perception, the Source, the Creator Within, or what I like to term The Inner "I." Handshake helps individuals resolve self-sovereign identity by allowing True Ownership of Digital Internet Potentials. We endeavor to find a name that has inner meaning to you! Let's Handshake ($HNS) 🤝!
 

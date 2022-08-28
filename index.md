@@ -9,6 +9,7 @@
 
   gtag('config', 'G-RWBSP9CPL4');
 </script>
+ <script async src="https://components.getmash.com/boost/boost.js"></script>
  </head>      
    <script type="application/javascript" defer="defer">
   (function () {
@@ -30,6 +31,7 @@
     head.appendChild(script);
   })();
 </script>
+   <mash-boost-button icon="lightning" layout-mode="float" float-location="bottom-left" variant="colorized"></mash-boost-button>
    
     IIIII                                  IIIII    NN   NN        tt        CCCCC                                                     
      III  nn nnn  nn nnn    eee  rr rr      III     NNN  NN   eee  tt       CC    C  oooo  mm mm mmmm  pp pp     aa aa nn nnn  yy   yy 

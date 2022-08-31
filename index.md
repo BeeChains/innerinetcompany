@@ -40,19 +40,14 @@
     IIIII nn   nn nn   nn  eeeee rr        IIIII    NN   NN  eeeee  tttt     CCCCC   oooo  mmm  mm  mm pp       aaa aa nn   nn      yy 
                                                                                                       pp                       yyyyy  
        
-       
-   
-   
-# [MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/](http://moneylanguage.xn--5o7da03hnd9sv9apze.hns.is/)
- Money is older than the Hieroglyph written records of it on a ledger - [Op_Return.net](https://opreturn.net/3b2434062bd026c40e5b2138f01d6eccbee444247d14ff017ecdfe183c9f64fe)    
-   [![Hieroglyphics fonts](https://see.fontimg.com/api/renderfont4/rG7y/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/TW9uZXkgaXMgb2xkZXIgdGhhbiB0aGUgSGllcm9nbHlwaCB3cml0dGVuIHJlY29yZHMgb2YgaXQgb24gYSBsZWRnZXI/off-ancient-egyptian.png)](https://www.fontspace.com/category/hieroglyphs)       
-     
-# [i.𓏞𓁿/](http://i.xn--ss7dp1d.hns.is/)
      
 [Tweet to @innerinetco](https://twitter.com/intent/tweet?screen_name=innerinetco&ref_src=twsrc%5Etfw)  
 <a href="tel:+1-305-707-4462"> Call 1(305)707-IINC         
-| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.is/) | [dLink.IINC/](http://dlink.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.is/) |      |[Pay.IINC/](http://pay.iinc.hns.is/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.is/) | [InnerINetwork/](https://innerinetwork/) | sats tip jar - [sats.iinc/](http://sats.iinc.hns.is/) | [Perma.TheRootZone/](http://perma.therootzone.hns.is/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.is/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.is/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.is/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.is/) | [Perma.InnerINetCompany/](http://perma.innerinetcompany/) |
-<marquee
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [InnerINetwork/](https://innerinetwork/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.is/) | [dLink.IINC/](http://dlink.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.is/) |      |[Pay.IINC/](http://pay.iinc.hns.is/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.is/) | sats tip jar - [sats.iinc/](http://sats.iinc.hns.is/) | [Perma.TheRootZone/](http://perma.therootzone.hns.is/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.is/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.is/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.is/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.is/) | [Perma.InnerINetCompany/](http://perma.innerinetcompany/) |
+
+ # [InnerINetwork/](https://innerinetwork/)
+ 
+ <marquee
 
      direction="left"
      loop="7"
@@ -61,10 +56,11 @@
      behavior="left"
      width="144%"
      bgcolor="#020320"
-
-     >
+     
+         >
 AR.🐘🕸/ - MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ - InnerINetwork/ - Handshake Domains 🤝
 </marquee>
+  
 <form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
   <input type="hidden" name="amount" value="100" />
   <input type="hidden" name="email" value="customer@example.com" />
@@ -157,7 +153,12 @@ We are changing the world wide web one I and Handshake at a time.
  - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
  https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
 
-
+# [MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/](http://moneylanguage.xn--5o7da03hnd9sv9apze.hns.is/)
+ Money is older than the Hieroglyph written records of it on a ledger - [Op_Return.net](https://opreturn.net/3b2434062bd026c40e5b2138f01d6eccbee444247d14ff017ecdfe183c9f64fe)    
+   [![Hieroglyphics fonts](https://see.fontimg.com/api/renderfont4/rG7y/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/TW9uZXkgaXMgb2xkZXIgdGhhbiB0aGUgSGllcm9nbHlwaCB3cml0dGVuIHJlY29yZHMgb2YgaXQgb24gYSBsZWRnZXI/off-ancient-egyptian.png)](https://www.fontspace.com/category/hieroglyphs)       
+     
+# [i.𓏞𓁿/](http://i.xn--ss7dp1d.hns.is/)
+ 
 - [WHAT IS SEO/](http://whatisseo.hns.is/)
 - [HOW TO SEO/](http://howtoseo.hns.is/)
 -  What is a [Backlink](https://backlinko.com/hub/seo/backlinks)?

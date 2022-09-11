@@ -169,9 +169,6 @@ We are changing the world wide web one I and Handshake at a time.
 - [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization/)
 - [Dweb-SEO/](http://dweb-seo/)
 
- <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
-<coingecko-coin-ticker-widget  coin-id="handshake" currency="usd" locale="en" width="0"></coingecko-coin-ticker-widget>
- 
 <html lang="en">
 <head>
     <title>LikeCoin button SDK demo</title>
@@ -181,7 +178,8 @@ We are changing the world wide web one I and Handshake at a time.
 <script src="https://static.like.co/sdk/v1/button.js"></script>
 </body>
 </html>
-
+<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
+<coingecko-coin-price-chart-widget  coin-id="handshake" currency="usd" height="300" locale="en"></coingecko-coin-price-chart-widget>
 Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 <div>

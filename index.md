@@ -180,7 +180,9 @@ We are changing the world wide web one I and Handshake at a time.
 </html>
 <script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
 <coingecko-coin-price-chart-widget  coin-id="handshake" currency="usd" height="300" locale="en"></coingecko-coin-price-chart-widget>
-Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
+<script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
+<coingecko-coin-price-marquee-widget  coin-ids="bitcoin,litecoin,handshake,lightning-bitcoin,ravencoin,arweave,cosmos,evmos" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
+ Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 <div>
 <a href="https://coinrequest.io/request/kbZqkmEMHJ2vVhS" title="Payment request for 1000 Flux." target="_blank"><img src="https://coinrequest.io/img/buttons/coinrequest-payment-button-rocket.png" alt="CoinRequest button" /></a>

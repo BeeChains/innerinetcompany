@@ -169,6 +169,9 @@ We are changing the world wide web one I and Handshake at a time.
 - [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization/)
 - [Dweb-SEO/](http://dweb-seo/)
 
+ <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
+<coingecko-coin-ticker-widget  coin-id="handshake" currency="usd" locale="en" width="0"></coingecko-coin-ticker-widget>
+ 
 <html lang="en">
 <head>
     <title>LikeCoin button SDK demo</title>

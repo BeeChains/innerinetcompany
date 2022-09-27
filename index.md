@@ -83,7 +83,9 @@ From. . .
 
 # ["But seek ye first the Kingdom (Consciousness) of God, and His righteousness (Right Ideas); and all these things will be added unto you."]( https://theimpersonallife.weebly.com/the-way-out.html)
 
-# Changing the world through the unchanging I. 
+# Changing the world through the unchanging 'I'.
+# - 'I' seen as the first thought formed within and of Supreme mind ITSELF, as Living Root of the Tree of Knowledge.
+# - 'I' is Root Access for the Self-Aware to Know Thyself via the mind's eye or say the mind's 'I'...
 
 ["I!
 Who am I?

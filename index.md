@@ -125,6 +125,7 @@ We are changing the world wide web one I and Handshake at a time.
 [![image](https://lh3.googleusercontent.com/V846uqn3Ohm5QJQIzvVXBz4I1pgGFTpiskWdvOY7ZP3Z0JSVORVmvy6x1zGIBblabQkyI_RkS7ETnb92YmZ0FgeUzUEPnwznE1i0ZA=s0)](https://innerinetwork/)
 - [dLink.iinc/](http://dlink.iinc.hns.is/)
 - [mash.iinc/](http://mash.iinc.hns.is/)
+- [HNS2.InnerINode/](http://hns2.innerinode/) - domain and also hns2innerinode is the name of our node in the [Global Apps on Flux](https://home.runonflux.io/apps/globalapps)
 - [shop.innerinetcompany](http://shop.innerinetcompany.hns.is/) My Big Commerce Store
 - [ Inner I Net Company](https://innerinetcompany-store.vercel.app/) Vercel App
 - [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!

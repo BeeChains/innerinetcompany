@@ -142,8 +142,8 @@ We are changing the world wide web one I and Handshake at a time.
 
 
 
-# Learn about [Handshake.org](https://handshake.org/) ,  [Join NameBase](https://www.namebase.io/register/o5muhq)
-
+# Learn, Build, and Share [Handshake.org](https://handshake.org/) ,  [Join NameBase](https://www.namebase.io/register/o5muhq)
+# dWeb Projects ⬇
  🤝 = Handshake($HNS)
 
  - 🤝 [Handshake Developer Documentation](https://hsd-dev.org/guides/resource-records.html)

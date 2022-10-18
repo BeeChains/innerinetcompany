@@ -1,4 +1,4 @@
-## [Inner ⚕ I ⚕ Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸 🤝 Handshake($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money.
+## [Inner ⚕ I ⚕ Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸/ , 🤝Handshake($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money.
  <head>
  <link rel="shortcut icon" href="https://cxfpfj2hjlz52zyi3ieqflr3ivbpcrt5hsmjb2uun2aqpidacb4q.arweave.net/Fcryp0dK891nCNoJAq47RULxRn08mJDqlG6BB6BgEHk" >
  <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -144,19 +144,22 @@ We are changing the world wide web one I and Handshake at a time.
 
 # Learn about [Handshake.org](https://handshake.org/) ,  [Join NameBase](https://www.namebase.io/register/o5muhq)
 
- - [Handshake Developer Documentation](https://hsd-dev.org/guides/resource-records.html)
+ 🤝 = Handshake($HNS)
+
+ - 🤝 [Handshake Developer Documentation](https://hsd-dev.org/guides/resource-records.html)
  - [Handshake dismantling the monopoly 2020](https://www.producthunt.com/posts/handshake-hns) by Tieshun
  - [Why are we still renting domains?](https://jaywuzer.medium.com/why-are-we-still-renting-domains-eefd45a4de1c) by Namer JohnnyWu
  - [Why RENT subdomains when you can OWN top-level domains? Handshake (HNS)](https://youtu.be/FMsEgf3sb68/) by JonnyWu on YouTube
  - [Internet Marketing Strategies For Using Handshake (HNS) Domains & sites](https://youtu.be/fWZHMxFrUlw/) by Sky Include
  - [Handshake Protocol, HNS mining full node](https://youtu.be/fIDnZaf6lV4/) 
- - [Handshake Tools Blog - HNS + PowerDNS + Nginx + Dane - for the self-sovereign](https://blog.htools.work/posts/hns-pdns-nginx/) 🤝 Thanks so much to Rithvik Vibhu and Nathan Woodburn 
- - [Resolving HNS names using DNS-over-HTTPS](https://matthewzipkin.medium.com/resolving-hns-names-using-dns-over-https-94643fe62ecd/) by Matthew Zipkin
- - [Easyhandshake.com](https://easyhandshake.com/) by Matthew Zipkin
- - [YHNSOO](https://yhnsoo.com/sites_by_web_rank/) Handshake Sites with most inbound links.
- - [Block1.HandshakeNFT/](http://block1.handshakenft.hns.is/)
- - [BTC.HandshakeNFT/](http://btc.handshakenft.hns.is/) 🔄 [HandshakeNFT.BTC](http://handshakenft.btc.us/)
- - [The Handshake Tarot](https://TheHandshakeTarot/) by [@MatthewZipkin](https://twitter.com/MatthewZipkin/status/1493634285307322372)
+ - 🤝[Handshake Tools Blog - HNS + PowerDNS + Nginx + Dane - for the self-sovereign](https://blog.htools.work/posts/hns-pdns-nginx/) 🤝 Thanks so much to Rithvik Vibhu and Nathan Woodburn 
+ - 🤝 [SiteCheck.Htool.Work/](https://sitecheck.htools.work/) a tool to analyze DNS, DNSSEC and DANE.
+ - 🤝 [Resolving HNS names using DNS-over-HTTPS](https://matthewzipkin.medium.com/resolving-hns-names-using-dns-over-https-94643fe62ecd/) by Matthew Zipkin
+ - 🤝 [Easyhandshake.com](https://easyhandshake.com/) by Matthew Zipkin
+ - 🤝 [YHNSOO](https://yhnsoo.com/sites_by_web_rank/) Handshake Sites with most inbound links.
+ - 🤝 [Block1.HandshakeNFT/](http://block1.handshakenft.hns.is/)
+ - 🤝 [BTC.HandshakeNFT/](http://btc.handshakenft.hns.is/) 🔄 [HandshakeNFT.BTC](http://handshakenft.btc.us/)
+ - 🤝 [The Handshake Tarot](https://TheHandshakeTarot/) by [@MatthewZipkin](https://twitter.com/MatthewZipkin/status/1493634285307322372)
  - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
  https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
 

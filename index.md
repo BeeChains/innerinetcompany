@@ -218,6 +218,5 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
   
 <div>
 
-https://embed.0xecho.com.ipns.page?color-theme=dark&desc=echo.hellocosmos&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip%2Clike%2Cdislike&receiver=ownweb3.eth&target_uri=Echo.HelloCosmos&height=800&display=iframe
-   
+https://embed.0xecho.com.ipns.page?color-theme=dark&desc=echo.hellocosmos&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=ownweb3.eth&target_uri=Echo.HelloCosmos&height=800&display=iframe
    

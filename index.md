@@ -215,4 +215,8 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 
    <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed"><a href="https://innerinetwork.gumroad.com/l/handshakenft">Loading...</a></div>
+  
+<div>
+https://embed.0xecho.com.ipns.page?color-theme=auto&amp;desc=Know%20Thy%20I-ness%2C%20go%20Handshake%20%F0%9F%A4%9D&amp;has-h-padding=true&amp;has-v-padding=true&amp;modules=comment%2Clike%2Ctip%2Cdislike&amp;receiver=ownweb3.eth&amp;target_uri=Hello%20Cosmos&amp;height=800&amp;display=iframe<br/>
+   
    

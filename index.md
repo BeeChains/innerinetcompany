@@ -218,5 +218,5 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
   
 <div>
 
-https://embed.0xecho.com.ipns.page?color-theme=dark&desc=echo.hellocosmos&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=ownweb3.eth&target_uri=Echo.HelloCosmos&height=800&display=iframe
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=&has-h-padding=true&has-v-padding=true&modules=comment&receiver=ownweb3.eth&target_uri=nft%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x495f947276749Ce646f68AC8c248420045cb7b5e%7D%7D%2F%7B%7B46562742596756802442988037393010566591419044755225160467779546222040371431696%7D%7D" frameborder="0"></iframe>
    

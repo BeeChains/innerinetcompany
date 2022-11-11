@@ -219,5 +219,5 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 <div>
 Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
-<iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="400" width="700" ></iframe>
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="700" width="700" ></iframe>
    

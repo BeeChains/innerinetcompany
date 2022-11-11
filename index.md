@@ -217,6 +217,7 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 <div class="gumroad-product-embed"><a href="https://innerinetwork.gumroad.com/l/handshakenft">Loading...</a></div>
   
 <div>
-
-<iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=&has-h-padding=true&has-v-padding=true&modules=comment&receiver=ownweb3.eth&target_uri=nft%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x495f947276749Ce646f68AC8c248420045cb7b5e%7D%7D%2F%7B%7B46562742596756802442988037393010566591419044755225160467779546222040371431696%7D%7D" frameborder="0"></iframe>
+Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
+<div>
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=echo.iinc%2F%20%2C%20leave%20a%20decentralized%20word%20%F0%9F%A4%9D&has-h-padding=true&has-v-padding=true&modules=comment&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="400" width="700" ></iframe>
    

@@ -91,7 +91,8 @@ From. . .
 # - 'I' is Root Access for the Self-Aware to Know Thyself via the mind's eye or say the mind's 'I'...
 # - 'I' is root founder of i-magi-nation, all other imaginings and ideas...
 # - "I" is Spirit embedded within by Source.
-
+# - Knowing Awarenss is the Knower of the Knowledge that is Known Itself.
+ 
 ["I!
 Who am I?
 I, Who speak with such seeming knowledge and authority?

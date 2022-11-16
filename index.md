@@ -34,7 +34,7 @@
 </script>
    <mash-boost-button icon="lightning" layout-mode="float" float-location="bottom-left" variant="colorized"></mash-boost-button>
    
-   🌟You try to escape your mind only to find That I AM your imagination. In knowing & query, I AM. Nowhere or now here, I AM. Beyond everything at a cost of nothing, I AM reigns. For I AM is the Light shone by which the builder refused the head cornerstone.
+   🌟You try to escape your mind only to find That I AM your imagination. In knowing & query, I AM. Nowhere or now here, I AM. Present in all your experience am "I". For I AM is the Light shone by which the builder refused the head cornerstone. I CAN, I WILL, DO THY WILL IN I!
    
     IIIII                                  IIIII    NN   NN        tt        CCCCC                                                     
      III  nn nnn  nn nnn    eee  rr rr      III     NNN  NN   eee  tt       CC    C  oooo  mm mm mmmm  pp pp     aa aa nn nnn  yy   yy 

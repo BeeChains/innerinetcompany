@@ -92,6 +92,7 @@ From. . .
 # - Is 'I' the root of i-magi-nation, and all other imaginings and ideas?
 # - Is "I" the Spirit embedded within by Source?
 # - Is "I" Knowing Awareness, the Knower of the Knowledge that is Known Itself?
+# - Is "I" not the only part of you that can claim to KNOW? (ex. I Know)
  
 ["I!
 Who am I?

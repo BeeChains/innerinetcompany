@@ -116,7 +116,8 @@ I, your Divine SELF.
  [![image](https://user-images.githubusercontent.com/37987346/103435699-6be72500-4be0-11eb-8264-7dcb24c14987.png)](http://shapereality.innerinetcompany.hns.to/)
 We are changing the world wide web one I and Handshake at a time.
 - "Knowledge is a possession of the mind, Truth is experience of the soul. The "I" of the material mind perceives only a world of factual knowledge, but the "I" of spiritualized intellect discerns a world of true values." [Urantia Book](https://youtu.be/U8QF2u5aw5o?t=1719)
-
+## 🐉 Sciens Conscientia - Knowing Awareness 💚
+## 🌊 Oceanum de Conscientia - Ocean of Awareness (Consciousness) 🌊
 ## ☀Notitiam In Conscientia - Knowledge In Awareness☀  
 ## 🌜Ignotum Est Conscii - Aware of The Unknown🌛 
 ## ❤Conscius In Unum - Conscious of The One Within❤

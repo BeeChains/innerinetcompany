@@ -93,7 +93,7 @@ From. . .
 # - Is "I" the Spirit embedded within by Source?
 # - Is "I" Knowing Awareness, the Knower of the Knowledge that is Known Itself?
 # - Is "I" not the only part of you that can claim to KNOW? (ex. to express that you know something you say, "I Know")
-# - Is "I" not the Knowing Presence of our Being and the Only continuous experience?
+# - Is "I" not the Knowing Presence of our Being and the 0nly continuous element of experience?
  
 ["I!
 Who am I?

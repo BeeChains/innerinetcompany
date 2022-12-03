@@ -48,7 +48,7 @@
 
 [Tweet to @innerinetco](https://twitter.com/intent/tweet?screen_name=innerinetco&ref_src=twsrc%5Etfw)  
 <a href="tel:+1-305-707-4462"> Call 1(305)707-IINC         
-| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [InnerINetwork/](https://innerinetwork/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.is/) | [dLink.IINC/](http://dlink.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.is/) |      |[Pay.IINC/](http://pay.iinc.hns.is/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.is/) | sats tip jar - [sats.iinc/](http://sats.iinc.hns.is/) | [Perma.TheRootZone/](http://perma.therootzone.hns.is/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.is/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.is/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.is/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.is/) | [Perma.InnerINetCompany/](http://perma.innerinetcompany/) |
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.is/) | [InnerINetwork/](https://innerinetwork/) | [HNS-DOMAINS](http://home.hns-domains.hns.is/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.is/) | [dLink.IINC/](http://dlink.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.is/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano/) | [ijuno](https://dens.sh/ids/ijuno) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.is/) |      |[Pay.IINC/](http://pay.iinc.hns.is/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.is/) | sats tip jar - [sats.iinc/](http://sats.iinc.hns.is/) | [Perma.TheRootZone/](http://perma.therootzone.hns.is/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.is/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.is/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.is/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.is/) | [Perma.InnerINetCompany/](http://perma.innerinetcompany/) | [$INNERCHI - Home.InnerChi/](http://home.innerchi.hns.is/)
 
  
  <marquee
@@ -87,12 +87,12 @@ From. . .
 
 # Changing the world through the unchanging 'I'. 
 # - Is 'I' first thought of by Itself as Being the One whom can witness and transcend thought?
-# - Is 'I' seen as the first thought formed within Self and of Supreme mind ITSELF, as Living Root of the Tree of Knowledge?
+# - Is 'I' seen as the first thought formed within SELF and of SUPREME MIND ITSELF, as Living Root of the Tree of Knowledge?
 # - Is 'I' Root Access for the Self-Aware to Know Thyself via the mind's eye or say the mind's I?
 # - Is 'I' the root of i-magi-nation, and all other imaginings and ideas?
 # - Is "I" the Spirit embedded within by Source?
 # - Is "I" Knowing Awareness, the Knower of the Knowledge that is Known Itself?
-# - Is "I" not the only part of you that can claim to KNOW? (ex. to express that you know something you say, "I Know")
+# - Is "I" not the only part of you that can claim to know anything? (ex. to express that you know something you say, "I Know")
 # - Is "I" not the Knowing Presence of our Being and the 0nly continuous element of experience?
  
 ["I!

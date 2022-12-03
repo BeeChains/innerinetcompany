@@ -94,7 +94,7 @@ From. . .
 # - Is 'I' Knowing Awareness, the Knower of the Knowledge that is Known Itself?
 # - Is 'I' not the only part of you that can claim to know anything? (ex. to express that you know something you say, "I Know")
 # - Is 'I' not the Knowing Presence of our Being and the 0nly continuous element of experience?
-# - Is 'I' not the center for perspectives on both Land and Law, King and Preist? Land | I | Law
+# - Is 'I' not central to both Land and Law, King and Preist? Land | I | Law
 ["I!
 Who am I?
 I, Who speak with such seeming knowledge and authority?

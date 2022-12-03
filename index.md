@@ -34,7 +34,7 @@
 </script>
    <mash-boost-button icon="lightning" layout-mode="float" float-location="bottom-left" variant="colorized"></mash-boost-button>
    
-   🌟You try to escape your mind only to find That I AM your imagination. In knowing & query, I AM. Nowhere or now here, I AM. Present in all your experience am "I". For I AM is the Light shone by which the builder refused the head cornerstone. I CAN, I WILL, DO THY WILL IN I!
+   🌟You try to escape your mind only to find That I AM your imagination. In knowing & query, I AM. Nowhere or now here, I AM. Present in all your experience am "I". For I AM is the Light shone by which the builder refused the head cornerstone. I CAN, I WILL!
    
     IIIII                                  IIIII    NN   NN        tt        CCCCC                                                     
      III  nn nnn  nn nnn    eee  rr rr      III     NNN  NN   eee  tt       CC    C  oooo  mm mm mmmm  pp pp     aa aa nn nnn  yy   yy 
@@ -120,7 +120,8 @@ We are changing the world wide web one I and Handshake at a time.
 ## 🌊 Oceanum de Conscientia - Ocean of Awareness (Consciousness) 🌊
 ## ☀Notitiam In Conscientia - Knowledge In Awareness☀  
 ## 🌜Ignotum Est Conscii - Aware of The Unknown🌛 
-## ❤Conscius In Unum - Conscious of The One Within❤
+## ❤Conscius In Unum - Conscious of The One Within❤ 
+## 👁 Deorum Voluntatem Faciam- I Will Do Gods Will 👁 
 # [Jesus replied: “ ‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’ All the Law and the Prophets hang on these two commandments.”](https://www.bible.com/bible/111/MAT.22.37-40.NIV)
 # "I" As The Center Of Gravity Is The Seat Of Unity, At The Center One Can See The Infinite.
 # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).

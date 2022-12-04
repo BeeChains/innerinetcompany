@@ -169,7 +169,7 @@ We are changing the world wide web one I and Handshake at a time.
  - 🤝 [Block1.HandshakeNFT/](http://block1.handshakenft.hns.is/)
  - 🤝 [BTC.HandshakeNFT/](http://btc.handshakenft.hns.is/) 🔄 [HandshakeNFT.BTC](http://handshakenft.btc.us/)
  - 🤝 [The Handshake Tarot](https://TheHandshakeTarot/) by [@MatthewZipkin](https://twitter.com/MatthewZipkin/status/1493634285307322372)
- - 🤝 [ArNameserver](https://nameserver.pages.dev/) - Arweave Nameserver Portal
+ - 🤝 [ArNameserver](https://nameserver.pages.dev/)🐘 - Arweave Nameserver Portal
  - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
  https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
 

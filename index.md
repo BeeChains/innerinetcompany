@@ -92,9 +92,9 @@ From. . .
 # - Is 'I' the root of i-magi-nation, and all other imaginings and ideas?
 # - Is 'I' the Spirit embedded within by Source?
 # - Is 'I' Knowing Awareness, the Knower of the Knowledge that is Known Itself?
-# - Is 'I' not the only part of you that can claim to know anything? (ex. to express that you know something you say, "I Know")
-# - Is 'I' not the Knowing Presence of our Being and the 0nly continuous element of experience?
-# - Is 'I' not central to both Land and Law, King and Preist? Land | I | Law
+# - Is 'I' the only part of you that can claim to know anything? (ex. to express that you know something you say, "I Know")
+# - Is 'I' the Knowing Presence of our Being and the 0nly continuous element of experience?
+# - Is 'I' Awarness's Awareness of Itself Being Aware?
 ["I!
 Who am I?
 I, Who speak with such seeming knowledge and authority?

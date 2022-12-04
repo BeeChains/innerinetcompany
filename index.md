@@ -94,7 +94,7 @@ From. . .
 # - Is 'I' Knowing Awareness, the Knower of the Knowledge that is Known Itself?
 # - Is 'I' the only part of you that can claim to know anything? (ex. to express that you know something you say, "I Know")
 # - Is 'I' the Knowing Presence of our Being and the 0nly continuous element of experience?
-# - Is 'I' Awarness's Awareness of Itself Being Aware?
+# - Is 'I' Awareness's Awareness of Itself Being Aware?
 ["I!
 Who am I?
 I, Who speak with such seeming knowledge and authority?

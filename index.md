@@ -1,4 +1,4 @@
-## [Inner ⚕ I ⚕ Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸/ , 🤝 Handshake ($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money.
+## [Inner ⚕ I ⚕ Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸/ , 🤝 Handshake ($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money. Know 'I'
  <head>
  <link rel="shortcut icon" href="https://cxfpfj2hjlz52zyi3ieqflr3ivbpcrt5hsmjb2uun2aqpidacb4q.arweave.net/Fcryp0dK891nCNoJAq47RULxRn08mJDqlG6BB6BgEHk" >
  <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -122,6 +122,8 @@ We are changing the world wide web one I and Handshake at a time.
 ## 🌜Ignotum Est Conscii - Aware of The Unknown🌛 
 ## ❤Conscius In Unum - Conscious of The One Within❤ 
 ## 👁 Deorum Voluntatem Faciam- I Will Do Gods Will 👁 
+## 🧠 Sum, Ergo Cogito (I Am, Therefore I Think) 🏛 Conscius Sum, Ergo Cogito (Aware of I Am, Therefore I Think) 👣 
+## "Cogito ergo sum" (I think, therefore I am) ~ Descartes
 # [Jesus replied: “ ‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’ All the Law and the Prophets hang on these two commandments.”](https://www.bible.com/bible/111/MAT.22.37-40.NIV)
 # "I" As The Center Of Gravity Is The Seat Of Unity, At The Center One Can See The Infinite.
 # [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) from the [Root of Perception](http://findusontheweb.innericompany.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).

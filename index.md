@@ -96,6 +96,7 @@ From. . .
 # - Is 'I' the Knowing Presence of our Being and the 0nly continuous element of experience?
 # - Is 'I' Awareness's Awareness of Itself Being Aware?
 # Great Awareness to place attention on either (I-thought), ('I Am' sense) or ('I Know' sense) to witness a metaepistemically direct sense of Self-illuminous Knowing.
+# The instant or ah ha moment of Knowing is Self-Luminous!
 ["I!
 Who am I?
 I, Who speak with such seeming knowledge and authority?

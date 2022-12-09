@@ -34,6 +34,7 @@
 </script>
    <mash-boost-button icon="lightning" layout-mode="float" float-location="bottom-left" variant="colorized"></mash-boost-button>
    
+   
    🌟You try to escape your mind only to find That I AM your imagination. In knowing & query, I AM. Nowhere or now here, I AM. Present in all your experience am "I". For I AM is the Light shone by which the builder refused the head cornerstone. I CAN, I WILL!
    
     IIIII                                  IIIII    NN   NN        tt        CCCCC                                                     
@@ -233,3 +234,24 @@ Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a
 <div>
 <iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="700" width="700" ></iframe>
    
+ 
+ <script>
+var letterI = document.createElement('div');
+letterI.innerHTML = 'I';
+letterI.style.fontSize = '100px';
+letterI.style.position = 'absolute';
+letterI.style.top = '50%';
+letterI.style.left = '50%';
+letterI.style.marginTop = '-50px';
+letterI.style.marginLeft = '-50px';
+document.body.appendChild(letterI);
+var toggle = true;
+setInterval(function() {
+  if (toggle) {
+    letterI.style.display = 'none';
+  } else {
+    letterI.style.display = 'block';
+  }
+  toggle = !toggle;
+}, 1000);
+</script>

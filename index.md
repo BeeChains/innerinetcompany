@@ -255,3 +255,21 @@ setInterval(function() {
   toggle = !toggle;
 }, 1000);
 </script>
+<script>
+var float = true;
+setInterval(function() {
+  if (float) {
+    letterI.style.top = '50%';
+    letterI.style.left = '50%';
+    letterI.style.marginTop = '-50px';
+    letterI.style.marginLeft = '-50px';
+  } else {
+    letterI.style.top = '0';
+    letterI.style.left = '0';
+    letterI.style.marginTop = '0';
+    letterI.style.marginLeft = '0';
+  }
+  float = !float;
+}, 1
+</script>
+ 

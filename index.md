@@ -255,5 +255,52 @@ setInterval(function() {
   toggle = !toggle;
 }, 1000);
 </script>
+<div>
+ # HTML script that you can use to create a golden ratio spiral on your screen by OpenAI
+ <canvas id="golden-spiral" width="500" height="500"></canvas>
+<script>
+  var canvas = document.getElementById('golden-spiral');
+  var ctx = canvas.getContext('2d');
+
+  // Set the starting point of the spiral
+  var x = 250;
+  var y = 250;
+
+  // Set the initial radius of the spiral
+  var radius = 100;
+
+  // Set the initial angle of the spiral
+  var angle = 0;
+
+  // Set the increment for the radius of the spiral
+  var radiusIncrement = 0.1;
+
+  // Set the increment for the angle of the spiral
+  var angleIncrement = (1 + Math.sqrt(5)) / 2;
+
+  // Set the line width for the spiral
+  ctx.lineWidth = 2;
+
+  // Set the stroke style for the spiral
+  ctx.strokeStyle = '#FFD700';
+
+  // Begin the spiral path
+  ctx.beginPath();
+
+  // Move to the starting point of the spiral
+  ctx.moveTo(x, y);
+
+  // Create the spiral
+  while (radius < 250) {
+    angle += angleIncrement;
+    x = x + radius * Math.cos(angle);
+    y = y + radius * Math.sin(angle);
+    ctx.lineTo(x, y);
+    radius += radiusIncrement;
+  }
+
+  // Stroke the spiral path
+  ctx.stroke();
+</script>
 
  

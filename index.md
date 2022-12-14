@@ -36,8 +36,8 @@
    
    
    🌟You try to escape your mind only to find That I AM your imagination. In knowing & query, I AM. Nowhere or now here, I AM. Present in all your experience am "I". For I AM is the Light shone by which the builder refused the head cornerstone. I CAN, I WILL, DO GOD'S WILL. 
-   # ̶ I̶-̶W̶i̶t̶n̶e̶s̶s̶ | 𝑾𝑰𝑻𝑵𝑬𝑺𝑺𝑰𝑵𝑮 | W̶i̶t̶n̶e̶s̶s̶e̶d̶  
-   # O̶b̶s̶e̶r̶v̶e̶r̶  | 𝑶𝑩𝑺𝑬𝑹𝑽𝑰𝑵𝑮 |  ̶O̶b̶s̶e̶r̶v̶e̶d̶
+## ̶ I̶-̶W̶i̶t̶n̶e̶s̶s̶ | 𝑾𝑰𝑻𝑵𝑬𝑺𝑺𝑰𝑵𝑮 | W̶i̶t̶n̶e̶s̶s̶e̶d̶  
+## O̶b̶s̶e̶r̶v̶e̶r̶  | 𝑶𝑩𝑺𝑬𝑹𝑽𝑰𝑵𝑮 |  ̶O̶b̶s̶e̶r̶v̶e̶d̶
    
     IIIII                                  IIIII    NN   NN        tt        CCCCC                                                     
      III  nn nnn  nn nnn    eee  rr rr      III     NNN  NN   eee  tt       CC    C  oooo  mm mm mmmm  pp pp     aa aa nn nnn  yy   yy 

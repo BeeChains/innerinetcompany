@@ -87,6 +87,7 @@ From. . .
 # ["But seek ye first the Kingdom (Consciousness) of God, and His righteousness (Right Ideas); and all these things will be added unto you."]( https://theimpersonallife.weebly.com/the-way-out.html)
 
 # Changing the world through the unchanging 'I'. 
+# - Simply WITNESSING WHAT-IS, helps to dissolve the disidentification of BEING with concepts. Witnessing is prior to the concept of I-witness, prior to the I-thought.
 # - Is 'I' first thought of by Itself as Being the One whom can witness and transcend thought?
 # - Is 'I' seen as the first thought formed within SELF and of SUPREME MIND ITSELF, as Living Root of the Tree of Knowledge?
 # - Is 'I' Root Access for the Self-Aware to Know Thyself via the mind's eye or say the mind's I?
@@ -124,8 +125,8 @@ We are changing the world wide web one I and Handshake at a time.
 ## ☀Notitiam In Conscientia - Knowledge In Awareness☀  
 ## 🌜Ignotum Est Conscii - Aware of The Unknown🌛 
 ## ❤Conscius In Unum - Conscious of The One Within❤ 
-## 👁 Deorum Voluntatem Faciam- I Will Do Gods Will 👁 
-## 🧠 Sum, Ergo Cogito (I Am, Therefore I Think) 🏛 Conscius Sum, Ergo Cogito (Aware of I Am, Therefore I Think) 👣 
+## 👁 Deorum Voluntatem Faciam- I Will Do God's Will 👁 
+## 🧠 Sum, Ergo Cogito (I Am, Therefore I Think) 🏛 Conscius Sum, Ergo Cogito (Aware of I Am, Therefore I Think) 👣 ( or is it when Unaware of 'I Am', Therefore I Think?)
 ## "Cogito ergo sum" (I think, therefore I am) ~ Descartes
 # [Jesus replied: “ ‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’ All the Law and the Prophets hang on these two commandments.”](https://www.bible.com/bible/111/MAT.22.37-40.NIV)
 # "I" As The Center Of Gravity Is The Seat Of Unity, At The Center One Can See The Infinite.

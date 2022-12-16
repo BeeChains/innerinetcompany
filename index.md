@@ -307,7 +307,7 @@ setInterval(function() {
 </script>
 
  <script>
-  /* create code for embeddable ChatGPT for a html website */
+  /* create embeddable ChatGPT for html website */
 var chatGPT = document.createElement('div');
 chatGPT.innerHTML = '<iframe src="https://chatgpt.com/chatgpt.html" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>';
 document.body.appendChild(chatGPT);

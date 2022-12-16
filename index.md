@@ -313,6 +313,9 @@ setInterval(function() {
   <a href="https://twitter.com/innerinetco"><i class="fab fa-twitter"></i> Twitter</a>
   <a href="https://facebook.com/innerinetcompany"><i class="fab fa-facebook-f"></i> Facebook</a>
   <a href="https://instagram.com/hnsdomains"><i class="fab fa-instagram"></i> Instagram</a>
+  <a href="https://handshake.org">
+  <img src="https://i.arxius.io/aec77ed8.png" alt="Handshake Logo">
+</a>
 </div>
   
 </div>

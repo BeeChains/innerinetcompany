@@ -306,11 +306,11 @@ setInterval(function() {
   ctx.stroke();
 </script>
 
- <script>
+ 
   <div id="social-widget">
   <a href="https://twitter.com/innerinetco">Twitter</a>
   <a href="https://facebook.com/innerinetcompany">Facebook</a>
   <a href="https://instagram.com/hnsdomains">Instagram</a>
 </div>
 
- </script> 
+ 

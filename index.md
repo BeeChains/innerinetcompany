@@ -1,5 +1,7 @@
 ## [Inner ⚕ I ⚕ Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸/ , 🤝 Handshake ($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money. Know 'I'
  <head>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
  <link rel="shortcut icon" href="https://cxfpfj2hjlz52zyi3ieqflr3ivbpcrt5hsmjb2uun2aqpidacb4q.arweave.net/Fcryp0dK891nCNoJAq47RULxRn08mJDqlG6BB6BgEHk" >
  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RWBSP9CPL4"></script>
@@ -307,10 +309,12 @@ setInterval(function() {
 </script>
 
  
-  <div id="social-widget">
-  <a href="https://twitter.com/innerinetco">Twitter</a>
-  <a href="https://facebook.com/innerinetcompany">Facebook</a>
-  <a href="https://instagram.com/hnsdomains">Instagram</a>
+<div id="social-widget">
+  <a href="https://twitter.com/innerinetco"><i class="fab fa-twitter"></i> Twitter</a>
+  <a href="https://facebook.com/innerinetcompany"><i class="fab fa-facebook-f"></i> Facebook</a>
+  <a href="https://instagram.com/hnsdomains"><i class="fab fa-instagram"></i> Instagram</a>
+</div>
+  
 </div>
 
  

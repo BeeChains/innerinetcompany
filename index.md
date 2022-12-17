@@ -317,7 +317,8 @@ setInterval(function() {
   <img src="https://i.arxius.io/aec77ed8.png" alt="Handshake Logo">
 </a>
 </div>
-  
+
+
 </div>
 
  

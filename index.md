@@ -299,7 +299,7 @@ setInterval(function() {
   ctx.moveTo(x, y);
 
   // Create the spiral
-  while (radius < 777) {
+  while (radius < 350) {
     angle += angleIncrement;
     x = x + radius * Math.cos(angle);
     y = y + radius * Math.sin(angle);

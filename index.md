@@ -104,7 +104,7 @@ From. . .
 # - Is 'I' the only part of you that can claim to know anything? (ex. to express that you know something you say, "I Know")
 # - Is 'I' the Knowing Presence of our Being and the 0nly continuous element of experience?
 # - Is 'I' Awareness's Awareness of Itself Being Aware?
-# Great Awareness to place attention on either (I-thought), ('I Am' sense) or ('I Know' sense) to witness a metaepistemically direct sense of Self-illuminous Knowing.
+# Great Awareness to place attention on either (Who and Whom thinks this I-thought?), (To whom does this 'I Am' sense come?) or ('I don't know' sense) to witness a metaepistemically direct sense of Self-illuminous Knowing.
 # The instant or ah ha moment of Knowing is Self-Luminous!
 ["I!
 Who am I?

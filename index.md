@@ -271,8 +271,8 @@ setInterval(function() {
   var ctx = canvas.getContext('2d');
 
   // Set the starting point of the spiral
-  var x = 250;
-  var y = 250;
+  var x = 77;
+  var y = 77;
 
   // Set the initial radius of the spiral
   var radius = 100;

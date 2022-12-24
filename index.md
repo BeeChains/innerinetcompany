@@ -98,7 +98,7 @@ From. . .
 # - Is 'I' awareness of 'I AM'? 
 # - Is 'I' the witnessing of the 'I AM witness'?
 # - Is 'I' to Awareness and 'I AM' is to Consciousness?
-# - Is 'I' First Thought of and by Itself as Being the One whom can witness and transcend thought?
+# - Is 'I' First Thought of and by Itself as Being the One Witnessing and Transcending?
 # - Is 'I' seen as the first thought formed within SELF and of SUPREME MIND ITSELF, as Living Root of the Tree of Knowledge?
 # - Is 'I' Root Access for the Self-Aware to Know Thyself via the mind's eye or say the mind's I?
 # - Is 'I' the root of i-magi-nation, and all other imaginings and ideas?

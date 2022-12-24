@@ -95,6 +95,7 @@ From. . .
 
 # Changing the world through the unchanging 'I'. 
 # - Simply WITNESSING WHAT-IS, helps to dissolve the disidentification of BEING with concepts. Witnessing is prior to the concept of I-witness, prior to the I-thought.
+# - Is 'I' awareness of 'I AM'? 
 # - Is 'I' first thought of by Itself as Being the One whom can witness and transcend thought?
 # - Is 'I' seen as the first thought formed within SELF and of SUPREME MIND ITSELF, as Living Root of the Tree of Knowledge?
 # - Is 'I' Root Access for the Self-Aware to Know Thyself via the mind's eye or say the mind's I?

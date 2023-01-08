@@ -220,9 +220,7 @@ We are changing the world wide web one I and Handshake at a time.
 <coingecko-coin-price-marquee-widget  coin-ids="bitcoin,handshake,cosmos,evmos,ravencoin,osmosis,juno-network,arweave" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
  Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
-<div>
-<a href="https://coinrequest.io/request/kbZqkmEMHJ2vVhS" title="Payment request for 1000 Flux." target="_blank"><img src="https://coinrequest.io/img/buttons/coinrequest-payment-button-rocket.png" alt="CoinRequest button" /></a>
-<div>
+<div> 
 #Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
  <div>
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>

@@ -227,6 +227,7 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
  <div>
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 
+<iframe src="https://theinneri.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 <iframe src="http://webchat.ircnet.net/?channels=freenode%2Chandshake%2Cinneri%26company%2Ccjdns%2Cpkt%2Cscrtnetwork&uio=MT11bmRlZmluZWQb1" width="647" height="400"></iframe>
   <div>
@@ -269,52 +270,7 @@ setInterval(function() {
 }, 1000);
 </script>
 <div>
- # HTML script that you can use to create a golden ratio spiral on your screen by OpenAI
- <canvas id="golden-spiral" width="500" height="500"></canvas>
-<script>
-  var canvas = document.getElementById('golden-spiral');
-  var ctx = canvas.getContext('2d');
 
-  // Set the starting point of the spiral
-  var x = 77;
-  var y = 77;
-
-  // Set the initial radius of the spiral
-  var radius = 100;
-
-  // Set the initial angle of the spiral
-  var angle = 0;
-
-  // Set the increment for the radius of the spiral
-  var radiusIncrement = 0.1;
-
-  // Set the increment for the angle of the spiral
-  var angleIncrement = (1 + Math.sqrt(5)) / 2;
-
-  // Set the line width for the spiral
-  ctx.lineWidth = 2;
-
-  // Set the stroke style for the spiral
-  ctx.strokeStyle = '#FFD700';
-
-  // Begin the spiral path
-  ctx.beginPath();
-
-  // Move to the starting point of the spiral
-  ctx.moveTo(x, y);
-
-  // Create the spiral
-  while (radius < 350) {
-    angle += angleIncrement;
-    x = x + radius * Math.cos(angle);
-    y = y + radius * Math.sin(angle);
-    ctx.lineTo(x, y);
-    radius += radiusIncrement;
-  }
-
-  // Stroke the spiral path
-  ctx.stroke();
-</script>
 
  
 <div id="social-widget">

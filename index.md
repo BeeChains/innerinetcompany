@@ -165,7 +165,7 @@ We are changing the world wide web one I and Handshake at a time.
 - [200:1bc6:7d38:693c:a115:cd53:9181:186d](http://[200:1bc6:7d38:693c:a115:cd53:9181:186d]) our site innerinetwork.ygg - Yggdrasil must be running to resolve this site in your browser, also you may could run this cmd; 
  $curl -v --resolve innerinetwork.ygg:80:\[200:1bc6:7d38:693c:a115:cd53:9181:186d\] http://innerinetwork.ygg
  - [Validator.InnerICoNomic](http://validator.innericonomic.hns.is/) - NOT ACTIVE 🛑
-  
+# our [Landing Page Template](https://innerinetwork.gumroad.com/l/kysty?_gl=1*1tqq5ew*_ga*MTc5NTQzMjUxNi4xNjczMjA3MzUx*_ga_6LJN6D94N6*MTY3Mzc2MDg0MC4yMC4xLjE2NzM3NjE3MzMuMC4wLjA.) and our [Easy, Fast and Cheap eCommerce Income Generator Template](https://innerinetwork.gumroad.com/l/bncrho?_gl=1*hyp5za*_ga*MTc5NTQzMjUxNi4xNjczMjA3MzUx*_ga_6LJN6D94N6*MTY3Mzc2MDg0MC4yMC4xLjE2NzM3NjE3MzMuMC4wLjA.)   
 
 
 
@@ -196,7 +196,8 @@ We are changing the world wide web one I and Handshake at a time.
    [![Hieroglyphics fonts](https://see.fontimg.com/api/renderfont4/rG7y/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/TW9uZXkgaXMgb2xkZXIgdGhhbiB0aGUgSGllcm9nbHlwaCB3cml0dGVuIHJlY29yZHMgb2YgaXQgb24gYSBsZWRnZXI/off-ancient-egyptian.png)](https://www.fontspace.com/category/hieroglyphs)       
      
 # [i.𓏞𓁿/](http://i.xn--ss7dp1d.hns.is/)
- 
+
+- [Simple Ink](https://simple.ink/?ref=barron76)
 - [WHAT IS SEO/](http://whatisseo.hns.is/)
 - [HOW TO SEO/](http://howtoseo.hns.is/)
 -  What is a [Backlink](https://backlinko.com/hub/seo/backlinks)?

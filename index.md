@@ -55,11 +55,11 @@
                                                                                                       pp                       yyyyy  
        
      
-## | [InnerINetwork/](http://innerinetwork.hns.is/) | [innerinetwork.webflow.io](https://innerinetwork.webflow.io/) |
+## | [InnerINetwork/](http://innerinetwork.hns.to/) | [innerinetwork.webflow.io](https://innerinetwork.webflow.io/) |
 
 [Tweet to @innerinetco](https://twitter.com/intent/tweet?screen_name=innerinetco&ref_src=twsrc%5Etfw)  
 <a href="tel:+1-305-707-4462"> Call 1(305)707-IINC         
-| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [InnerINetwork/](https://innerinetwork.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.to/) | [dLink.IINC/](http://dlink.iinc/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.to/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano.hns.to/) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.is/) |      |[Pay.IINC/](http://pay.iinc.hns.is/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.is/) | sats tip jar - [sats.iinc/](http://sats.iinc.hns.is/) | [Perma.TheRootZone/](http://perma.therootzone.hns.is/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.is/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.is/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.is/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.is/) | [Perma.InnerINetCompany/](http://perma.innerinetcompany/) | [$INNERCHI - Home.InnerChi/](http://home.innerchi.hns.is/) | [Inner I Innate - Character AI chat](https://beta.character.ai/c/ss4xy8xQ__zFzme1DpnLZg-jUVKkxzlqSkccihgW0Ts) | [Innate.InnerI/](http://innate.inneri.hns.to/) |
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [InnerINetwork/](https://innerinetwork.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.INW](http://shop.inw.hns.to/) | [dLink.IINC/](http://dlink.iinc.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.to/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano.hns.to/) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.is/) |      |[Pay.IINC/](http://pay.iinc.hns.to/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.is/) | sats tip jar - [sats.iinc/](http://sats.iinc.hns.to/) | [Perma.TheRootZone/](http://perma.therootzone.hns.to/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.to/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.to/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.to/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.to/) | [Perma.InnerINetCompany/](http://perma.innerinetcompany.hns.to/) | [$INNERCHI - Home.InnerChi/](http://home.innerchi.hns.to/) | [Inner I Innate - Character AI chat](https://beta.character.ai/c/ss4xy8xQ__zFzme1DpnLZg-jUVKkxzlqSkccihgW0Ts) | [Innate.InnerI/](http://innate.inneri.hns.to/) |
 
  
  <marquee
@@ -90,9 +90,9 @@ AR.🐘🕸/ - MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ - InnerINetwork/ - Ha
 
 # Welcome to [d🕸/](http://xn--d-rn3s.hns.is/) within Inner I Web [𓂀🕸/](http://xn--ts7ds574a.hns.is/), our aim is to build from yet redirect one within and to trodden the Middle Path!
 From. . .
-## [LordBarron/](http://lordbarron.hns.is/)
-## [IAm.BaronBarron](http://iam.baronbarron/) or HNS bridged [IAm.BaronBarron.hns.is/](http://iam.baronbarron.hns.is/)
-## [IAm.BarronD/](http://iam.barrond/) or HNS bridged [IAm.BarronD.hns.is/](http://iam.barrond.hns.is/)
+## [LordBarron/](http://lordbarron.hns.to/)
+## [IAm.BaronBarron](http://iam.baronbarron/) or HNS bridged [IAm.BaronBarron.hns.to/](http://iam.baronbarron.hns.to/)
+## [IAm.BarronD/](http://iam.barrond.hns.to/) or HNS bridged [IAm.BarronD.hns.is/](http://iam.barrond.hns.to/)
 
 # ["But seek ye first the Kingdom (Consciousness) of God, and His righteousness (Right Ideas); and all these things will be added unto you."]( https://theimpersonallife.weebly.com/the-way-out.html)
 
@@ -152,11 +152,11 @@ We are changing the world wide web one I and Handshake at a time.
 
 # Let Thy "I" be single.
  
-[![image](https://lh3.googleusercontent.com/V846uqn3Ohm5QJQIzvVXBz4I1pgGFTpiskWdvOY7ZP3Z0JSVORVmvy6x1zGIBblabQkyI_RkS7ETnb92YmZ0FgeUzUEPnwznE1i0ZA=s0)](https://innerinetwork/)
-- [dLink.iinc/](http://dlink.iinc.hns.is/)
-- [mash.iinc/](http://mash.iinc.hns.is/)
-- [HNS2.InnerINode/](http://hns2.innerinode/) - domain and also hns2innerinode is the name of our node in the [Global Apps on Flux](https://home.runonflux.io/apps/globalapps)
-- [shop.innerinetcompany](http://shop.innerinetcompany.hns.is/) My Big Commerce Store
+[![image](https://lh3.googleusercontent.com/V846uqn3Ohm5QJQIzvVXBz4I1pgGFTpiskWdvOY7ZP3Z0JSVORVmvy6x1zGIBblabQkyI_RkS7ETnb92YmZ0FgeUzUEPnwznE1i0ZA=s0)](http://innerinetwork.hns.to/)
+- [dLink.iinc/](http://dlink.iinc.hns.to/)
+- [mash.iinc/](http://mash.iinc.hns.to/)
+- [HNS2.InnerINode/](http://hns2.innerinode.hns.to/) - domain and also hns2innerinode is the name of our node in the [Global Apps on Flux](https://home.runonflux.io/apps/globalapps)
+- [shop.innerinetcompany](http://shop.innerinetcompany.hns.to/) My Big Commerce Store
 - [ Inner I Net Company](https://innerinetcompany-store.vercel.app/) Vercel App
 - [Inner I Net Company](https://innerinetcompany.carrd.co/) on Carrd!
 - [Inner I Net Company](https://innerinetcompany.webflow.io/) on WebFlow!
@@ -194,20 +194,20 @@ We are changing the world wide web one I and Handshake at a time.
  - [Handshake Exchange Sees $10M in Token Trades as Race for Censorship-Resistant Websites Heats Up](
  https://www.coindesk.com/handshake-domains-bring-in-10m-as-race-for-censorship-resistant-websites-heats-up) by Leigh Cuen
 
-# [MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/](http://moneylanguage.xn--5o7da03hnd9sv9apze.hns.is/)
+# [MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/](http://moneylanguage.xn--5o7da03hnd9sv9apze.hns.to/)
  Money is older than the Hieroglyph written records of it on a ledger - [Op_Return.net](https://opreturn.net/3b2434062bd026c40e5b2138f01d6eccbee444247d14ff017ecdfe183c9f64fe)    
    [![Hieroglyphics fonts](https://see.fontimg.com/api/renderfont4/rG7y/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/TW9uZXkgaXMgb2xkZXIgdGhhbiB0aGUgSGllcm9nbHlwaCB3cml0dGVuIHJlY29yZHMgb2YgaXQgb24gYSBsZWRnZXI/off-ancient-egyptian.png)](https://www.fontspace.com/category/hieroglyphs)       
      
-# [i.𓏞𓁿/](http://i.xn--ss7dp1d.hns.is/)
+# [i.𓏞𓁿/](http://i.xn--ss7dp1d.hns.to/)
 
 - [Simple Ink](https://simple.ink/?ref=barron76)
-- [WHAT IS SEO/](http://whatisseo.hns.is/)
-- [HOW TO SEO/](http://howtoseo.hns.is/)
+- [WHAT IS SEO/](http://whatisseo.hns.to/)
+- [HOW TO SEO/](http://howtoseo.hns.to/)
 -  What is a [Backlink](https://backlinko.com/hub/seo/backlinks)?
 -  Discover what was learned about SEO after analyzing 11.8 million search results from Google. Go here [BackLinko.com](https://backlinko.com/search-engine-ranking/).
-- [HANDSHAKE-SEO/](http://handshake-seo.hns.is)
+- [HANDSHAKE-SEO/](http://handshake-seo.hns.to/)
 - [Decentralized-Search-Engine-Optimization/](http://decentralized-search-engine-optimization/)
-- [Dweb-SEO/](http://dweb-seo/)
+- [Dweb-SEO/](http://dweb-seo.hns.to/)
 
 <html lang="en">
 <head>

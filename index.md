@@ -98,8 +98,10 @@ From. . .
 
 # Changing the world through the unchanging 'I'. 
 # - Simply WITNESSING WHAT-IS, helps to dissolve the disidentification of BEING with concepts. Witnessing is prior to the concept of I-witness, prior to the I-thought.
-# - Is 'I' awareness of 'I AM'? 
-# - Is 'I' the witnessing of the 'I AM witness'?
+ 
+# - Who is originator of the I-thought?
+# -'I AM' awareness, aware of 'I' thought 
+# - Is 'I' witnessing of the 'I AM witness'?
 # - Is 'I' to Awareness and 'I AM' is to Consciousness?
 # - Is 'I' a Knowing Witnessing Presence of Being that is Innate? 
 # - Is 'I AM' a Knowing Witness Presence of Being that is Innate?

@@ -1,6 +1,6 @@
 ## [Inner ⚕ I ⚕ Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸/ , 🤝 Handshake ($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money. 
  
- | [innerinetcompany.com](https://innerinetcompany.com) |
+ | [innerinetcompany.com](https://innerinetcompany.com) | [Products](https://innerinetcompany.com/products/)
  
 <iframe
 src="https://www.chatbase.co/chatbot-iframe/5qMivV8y6vtKsnfIE_t7Z"
@@ -241,7 +241,6 @@ Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 
 <iframe src="https://theinneri.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="http://webchat.ircnet.net/?channels=freenode%2Chandshake%2Cinneri%26company%2Ccjdns%2Cpkt%2Cscrtnetwork&uio=MT11bmRlZmluZWQb1" width="647" height="400"></iframe>
   <div>
 <form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
   <input type="hidden" name="amount" value="100" />

@@ -304,8 +304,8 @@ setInterval(function() {
         theme: {
             button: {
                 backgroundColor: "#3B81F6",
-                left: 50,
-                bottom: 20,
+                right: 56,
+                bottom: 33,
                 size: "medium",
                 iconColor: "white",
                 customIconSrc: "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg",

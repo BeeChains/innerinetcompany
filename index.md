@@ -304,7 +304,7 @@ setInterval(function() {
         theme: {
             button: {
                 backgroundColor: "#3B81F6",
-                right: 56,
+                right: 85,
                 bottom: 33,
                 size: "medium",
                 iconColor: "white",

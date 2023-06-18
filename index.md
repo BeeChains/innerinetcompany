@@ -296,5 +296,11 @@ setInterval(function() {
 <zapier-interfaces-page-embed page-id='clhfwpy02002bmm0n530fmhzh' no-background='false' style='max-width: 700px; height: 500px;'></zapier-interfaces-page-embed>
 
 </div>
-
+<script type="module">
+    import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+    Chatbot.init({
+        chatflowid: "ab3ed748-5196-4a2b-9925-b6144f7f7c79",
+        apiHost: "https://inneriflowai.onrender.com",
+    })
+</script>
  

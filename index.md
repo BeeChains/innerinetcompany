@@ -326,7 +326,7 @@ setInterval(function() {
                     backgroundColor: "#3B81F6",
                     textColor: "#ffffff",
                     showAvatar: true,
-                    avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png",
+                    avatarSrc: "https://i.arxius.io/6f131b99.png",
                 },
                 textInput: {
                     placeholder: "Inquire about Inner I Network",

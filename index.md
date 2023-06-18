@@ -26,7 +26,26 @@ frameborder="0"
 </script>
  <script async src="https://components.getmash.com/boost/boost.js"></script>
  </head>      
-   
+ <script type="application/javascript" defer="defer">
+  (function () {
+    window.MashSettings = {
+      id: "09a8a185-df7e-4dfb-ae4f-86b940eaa9ba",
+    };
+    
+    var loader = function () {
+      window.Mash.init(window.MashSettings);
+    };
+    
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.async = true;
+    script.onload = loader;
+    script.src = "https://wallet.getmash.com/sdk/sdk.js";
+    
+    var head = document.getElementsByTagName("head")[0];
+    head.appendChild(script);
+  })();
+</script>  
  <mash-boost-button icon="lightning" layout-mode="float" float-location="bottom-left" variant="colorized"></mash-boost-button>
    
    
@@ -285,16 +304,16 @@ setInterval(function() {
         theme: {
             button: {
                 backgroundColor: "#3B81F6",
-                middle: 20,
+                left: 50,
                 bottom: 20,
                 size: "medium",
                 iconColor: "white",
                 customIconSrc: "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg",
             },
             chatWindow: {
-                welcomeMessage: "Hello! This is custom welcome message",
+                welcomeMessage: "Hello! From Within!",
                 backgroundColor: "#ffffff",
-                height: 700,
+                height: 300,
                 width: 400,
                 poweredByTextColor: "#303235",
                 botMessage: {
@@ -310,7 +329,7 @@ setInterval(function() {
                     avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png",
                 },
                 textInput: {
-                    placeholder: "Type your question",
+                    placeholder: "Inquire about Inner I Network",
                     backgroundColor: "#ffffff",
                     textColor: "#303235",
                     sendButtonColor: "#3B81F6",

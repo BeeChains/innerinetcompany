@@ -299,8 +299,8 @@ setInterval(function() {
 <script type="module">
     import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
     Chatbot.init({
-        chatflowid: "e9b08d4a-081f-4183-811c-d63a07fc41bb",
-        apiHost: "https://inneriflowai.onrender.com",
+        chatflowid: "ba551091-2628-4952-b558-3557eaf3e65e",
+        apiHost: "https://inner-i-flowai.onrender.com",
         theme: {
             button: {
                 backgroundColor: "#3B81F6",

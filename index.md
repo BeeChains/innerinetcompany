@@ -19,24 +19,24 @@
 <script async src="https://components.getmash.com/boost/boost.js"></script>
 </head>
 <script type="application/javascript" defer="defer">
-  (function () {
-    window.MashSettings = {
-      id: "09a8a185-df7e-4dfb-ae4f-86b940eaa9ba",
-    };
+(function () {
+window.MashSettings = {
+id: "09a8a185-df7e-4dfb-ae4f-86b940eaa9ba",
+};
     
-   var loader = function () {
-      window.Mash.init(window.MashSettings);
-    };
+var loader = function () {
+window.Mash.init(window.MashSettings);
+};
     
-   var script = document.createElement("script");
-    script.type = "text/javascript";
-    script.async = true;
-    script.onload = loader;
-    script.src = "https://wallet.getmash.com/sdk/sdk.js";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.async = true;
+script.onload = loader;
+script.src = "https://wallet.getmash.com/sdk/sdk.js";
     
-   var head = document.getElementsByTagName("head")[0];
-    head.appendChild(script);
-  })();
+var head = document.getElementsByTagName("head")[0];
+head.appendChild(script);
+})();
 </script>  
  <mash-boost-button icon="lightning" layout-mode="float" float-location="bottom-left" variant="colorized"></mash-boost-button>
    

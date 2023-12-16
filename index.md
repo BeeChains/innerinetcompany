@@ -224,7 +224,7 @@ We are changing the world wide web one I and Handshake at a time.
 <script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
 <coingecko-coin-price-chart-widget  coin-id="handshake" currency="usd" height="300" locale="en"></coingecko-coin-price-chart-widget>
 <script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
-<coingecko-coin-price-marquee-widget  coin-ids="bitcoin,bittensor,handshake,cosmos,sentinel,mantra-dao,evmos,ravencoin,osmosis,arweave,kujira" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
+<coingecko-coin-price-marquee-widget  coin-ids="bitcoin,bittensor,handshake,cosmos,sentinel,evmos,ravencoin,osmosis,arweave,kujira,mantadao" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
  Send gifts of HNS here: hs1qn3mah5l6uujmjktp8r2uz3p0ddq5pg29nfwtn9
 Contribute using this [PayPal link](https://www.paypal.com/paypalme/ThomasD420)
 <div> 

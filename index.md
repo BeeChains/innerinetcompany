@@ -24,7 +24,7 @@
   width="100%"
   height="700"
   frameborder="0"
-</iframe>
+></iframe></iframe>
  <script type="application/javascript" defer="defer">
   (function () {
     window.MashSettings = {

@@ -25,7 +25,7 @@
   height="700"
   frameborder="0"
 ></iframe></iframe>
- <script type="application/javascript" defer="defer">
+<script type="application/javascript" defer="defer">
   (function () {
     window.MashSettings = {
       id: "09a8a185-df7e-4dfb-ae4f-86b940eaa9ba",

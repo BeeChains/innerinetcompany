@@ -14,7 +14,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-RWBSP9CPL4');
 </script>
 <script async src="https://components.getmash.com/boost/boost.js"></script>
@@ -31,17 +30,17 @@
       id: "09a8a185-df7e-4dfb-ae4f-86b940eaa9ba",
     };
     
-    var loader = function () {
+   var loader = function () {
       window.Mash.init(window.MashSettings);
     };
     
-    var script = document.createElement("script");
+   var script = document.createElement("script");
     script.type = "text/javascript";
     script.async = true;
     script.onload = loader;
     script.src = "https://wallet.getmash.com/sdk/sdk.js";
     
-    var head = document.getElementsByTagName("head")[0];
+   var head = document.getElementsByTagName("head")[0];
     head.appendChild(script);
   })();
 </script>  

@@ -287,48 +287,4 @@ setInterval(function() {
 </div>
 <script type='module' src='https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js'></script>
 <zapier-interfaces-page-embed page-id='clhfwpy02002bmm0n530fmhzh' no-background='false' style='max-width: 700px; height: 500px;'></zapier-interfaces-page-embed>
-
-</div>
-<script type="module">
-    import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
-    Chatbot.init({
-        chatflowid: "ba551091-2628-4952-b558-3557eaf3e65e",
-        apiHost: "https://inner-i-flowai.onrender.com",
-        theme: {
-            button: {
-                backgroundColor: "#3B81F6",
-                right: 85,
-                bottom: 33,
-                size: "medium",
-                iconColor: "white",
-                customIconSrc: "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg",
-            },
-            chatWindow: {
-                welcomeMessage: "Hello! From Within!",
-                backgroundColor: "#ffffff",
-                height: 300,
-                width: 400,
-                poweredByTextColor: "#303235",
-                botMessage: {
-                    backgroundColor: "#f7f8ff",
-                    textColor: "#303235",
-                    showAvatar: true,
-                    avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/parroticon.png",
-                },
-                userMessage: {
-                    backgroundColor: "#3B81F6",
-                    textColor: "#ffffff",
-                    showAvatar: true,
-                    avatarSrc: "https://i.arxius.io/6f131b99.png",
-                },
-                textInput: {
-                    placeholder: "Inquire about Inner I Network",
-                    backgroundColor: "#ffffff",
-                    textColor: "#303235",
-                    sendButtonColor: "#3B81F6",
-                }
-            }
-        }
-    })
-</script>
  

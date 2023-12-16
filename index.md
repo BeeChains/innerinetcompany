@@ -18,12 +18,6 @@
 </script>
 <script async src="https://components.getmash.com/boost/boost.js"></script>
 </head>
-<iframe
-  src="https://embed.pagelines.com/agent/cb1453720237741450515"
-  width="100%"
-  height="700"
-  frameborder="0"
-></iframe></iframe>
 <script type="application/javascript" defer="defer">
   (function () {
     window.MashSettings = {

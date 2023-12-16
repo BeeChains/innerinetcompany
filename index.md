@@ -1,7 +1,6 @@
 ## [Inner ⚕ I ⚕ Net Company/](http://shapereality.innerinetcompany.hns.to/) | 𓂀🕸/ , 🤝 Handshake ($HNS) is a decentralized root zone of the internet, like ₿itcoin($BTC) is to money. 
 
- <iframe  src="https://embed.pagelines.com/agent/cb1453720237741450515"  width="100%"  height="700"  frameborder="0"></iframe>
- 
+ [Chat with Inner I Agent](https://embed.pagelines.com/agent/cb1453720237741450515)
  | [innerinetcompany.com](https://innerinetcompany.com) | [Products](https://innerinetcompany.com/products/)
  
 <a href="https://twitter.com/intent/tweet?button_hashtag=theinneri&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #theinneri</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

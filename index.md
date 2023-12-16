@@ -4,10 +4,10 @@
  
 <a href="https://twitter.com/intent/tweet?button_hashtag=theinneri&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #theinneri</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
- <head>
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
- <link rel="shortcut icon" href="https://cxfpfj2hjlz52zyi3ieqflr3ivbpcrt5hsmjb2uun2aqpidacb4q.arweave.net/Fcryp0dK891nCNoJAq47RULxRn08mJDqlG6BB6BgEHk" >
+<link rel="shortcut icon" href="https://cxfpfj2hjlz52zyi3ieqflr3ivbpcrt5hsmjb2uun2aqpidacb4q.arweave.net/Fcryp0dK891nCNoJAq47RULxRn08mJDqlG6BB6BgEHk" >
  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RWBSP9CPL4"></script>
 <script>
@@ -17,13 +17,14 @@
 
   gtag('config', 'G-RWBSP9CPL4');
 </script>
- <script async src="https://components.getmash.com/boost/boost.js"></script>
+<script async src="https://components.getmash.com/boost/boost.js"></script>
  <!-- PageLines Client Tag (innerinetcompany) -->
- <script id="pl-client" src="https://tag.pagelines.com/load.js?o=or657d04b8616b352d78b5ccef" defer></script>
- </head>
+<script id="pl-client" src="https://tag.pagelines.com/load.js?o=or657d04b8616b352d78b5ccef" defer>
+</script>
+</head>
  <!-- PageLines Agent Config (Inner I Agent) -->
  <div data-pl-agent-id="cb1453720237741450515" data-pl-mode="modal" data-pl-position="br" data-pl-trigger="button" style="display:none;">
-  </div>
+ </div>
  <script type="application/javascript" defer="defer">
   (function () {
     window.MashSettings = {

@@ -39,6 +39,13 @@ head.appendChild(script);
 })();
 </script>  
  <mash-boost-button icon="lightning" layout-mode="float" float-location="bottom-left" variant="colorized"></mash-boost-button>
+<script type="module">
+    import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+    Chatbot.init({
+        chatflowid: "355b383f-3618-4d6d-9bab-51d56cdc60db",
+        apiHost: "https://inner-i-flowai.onrender.com",
+    })
+</script> 
    
    
    🌟You try to escape your mind only to find That I AM your imagination. In knowing & query, I AM. Nowhere or now here, I AM. Present in all your experience am "I". For I AM is the Light shone by which the builder refused the head cornerstone. I CAN, I WILL, DO GOD'S WILL. 

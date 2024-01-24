@@ -66,7 +66,7 @@ head.appendChild(script);
 
 [Tweet to @innerinetco](https://twitter.com/intent/tweet?screen_name=innerinetco&ref_src=twsrc%5Etfw)  
 <a href="tel:+1-305-707-4462"> Call 1(305)707-IINC         
-| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [InnerINetwork/](https://innerinetwork.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.IINC](http://shop.iinc.hns.to/) | [dLink.IINC/](http://dlink.iinc.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.to/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano.hns.to/) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.is/) |      |[Pay.IINC/](http://pay.iinc.hns.to/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.is/) | sats tip jar - [sats.iinc/](http://sats.iinc.hns.to/) | [Perma.TheRootZone/](http://perma.therootzone.hns.to/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.to/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.to/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.to/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.to/) | [Perma.InnerINetCompany/](http://perma.innerinetcompany.hns.to/) | [$INNERCHI - Home.InnerChi/](http://home.innerchi.hns.to/) | [Inner I Innate - Character AI chat](https://beta.character.ai/c/ss4xy8xQ__zFzme1DpnLZg-jUVKkxzlqSkccihgW0Ts) | [Innate.InnerI/](http://innate.inneri.hns.to/) |
+| [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [InnerINetwork/](https://innerinetwork.hns.to/) | [HNS-DOMAINS](http://home.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) | [LinkTree @hnsroot](https://linktr.ee/hnsroot) | [SHOP.IINC](http://shop.iinc.hns.to/) | [dLink.IINC/](http://dlink.iinc.hns.to/) | [Facebook](https://facebook.com/innerinetcompany) | [@innerinetco](https://twitter.com/innerinetco) | [@HNSDOMAINS](https://twitter.com/hnsdomains) | [🐻💻/](http://xn--gp8h6h.hns.to/) |  |[Conscientia Scientia Oceano/](http://conscientiascientiaoceano.hns.to/) | [bz5z55e7xf](https://app.altermail.live/login) | [Chat.IINC/](http://chat.iinc.hns.is/) 🔓 [pub.iinc](https://matrix.to/#/#pub.iinc:matrix.org) or [matrix.iinc](https://matrix.to/#/@iinc:matrix.org) | [BTheSpirit - my Keybase.io profile](https://keybase.io/bthespirit) | [Hireme.iinc/](http://hireme.iinc.hns.to/) |      |[Pay.IINC/](http://pay.iinc.hns.to/) | [innerinetwork@btcpayserver](https://innerinetwork@btcpay0.voltageapp.io/) | [BTCpos.iinc/](http://btcpos.iinc.hns.to/) | sats tip jar - [sats.iinc/](http://sats.iinc.hns.to/) | [Perma.TheRootZone/](http://perma.therootzone.hns.to/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.to/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.to/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.to/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.to/) | [Perma.InnerINetCompany/](http://perma.innerinetcompany.hns.to/) | [$INNERCHI - Home.InnerChi/](http://home.innerchi.hns.to/) | [Inner I Innate - Character AI chat](https://beta.character.ai/c/ss4xy8xQ__zFzme1DpnLZg-jUVKkxzlqSkccihgW0Ts) | [Innate.InnerI/](http://innate.inneri.hns.to/) |
 
  
  <marquee
@@ -95,7 +95,7 @@ AR.🐘🕸/ - MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ - InnerINetwork/ - Ha
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://innerinetwork.gumroad.com/l/handshakenft">Buy and Download HandshakeNFT</a>
 
-# Welcome to [d🕸/](http://xn--d-rn3s.hns.is/) within Inner I Web [𓂀🕸/](http://xn--ts7ds574a.hns.is/), our aim is to build from yet redirect one within and to trodden the Middle Path!
+# Welcome to [d🕸/](http://xn--d-rn3s.hns.to/) within Inner I Web [𓂀🕸/](http://xn--ts7ds574a.hns.to/), our aim is to build from yet redirect one within and to trodden the Middle Path!
 From. . .
 ## [LordBarron/](http://lordbarron.hns.to/)
 ## [IAm.BaronBarron](http://iam.baronbarron/) or HNS bridged [IAm.BaronBarron.hns.to/](http://iam.baronbarron.hns.to/)
@@ -135,7 +135,7 @@ For I AM your real Teacher, the only real one you will ever know, and the only M
 I, your Divine SELF.
   I, the I AM of you, bring to you this My Message, My living Word, as I have brought to you everything in life, be it book or "Master" to teach you that I and I alone, your own True Self, AM The Teacher for you, the only Teacher and the only God, Who is and always has been providing you not only with the Bread and Wine of Life, but with all things needed for your physical, mental and spiritual growth and sustenance."]( https://zoboko.com/text/0x36evn5/joseph-benner-premium-collection-the-impersonal-life-the-way-out-the-way-beyond-brotherhood-the-way-to-the-kingdom-the-teacher-wealth/4)
 
-# "Find out, Are they 60 billion I's, or there is only one "I" to which all the 60 billion bodies are referring to?" ~ Sri Ramana Maharshi ~ see quote: [innerinetwork/jnani/](https://innerinetwork/jnani/)
+# "Find out, Are they 60 billion I's, or there is only one "I" to which all the 60 billion bodies are referring to?" ~ Sri Ramana Maharshi
 
 # Each of our websites use a decentralized DNS root zone on the Handshake($HNS) blockchain and were intentionally designed to gravitate Ones attention towards the root of perception, the Source, the Creator Within, or what I like to term The Inner "I." Handshake helps individuals resolve self-sovereign identity by allowing True Ownership of Digital Internet Potentials. We endeavor to find a name that has inner meaning to you! Let's Handshake ($HNS) 🤝!
 
@@ -176,8 +176,8 @@ We are changing the world wide web one I and Handshake at a time.
 - [InnerINetwork/Nomic](https://innerinetwork/nomic)
 - [200:1bc6:7d38:693c:a115:cd53:9181:186d](http://[200:1bc6:7d38:693c:a115:cd53:9181:186d]) our site innerinetwork.ygg - Yggdrasil must be running to resolve this site in your browser, also you may could run this cmd; 
  $curl -v --resolve innerinetwork.ygg:80:\[200:1bc6:7d38:693c:a115:cd53:9181:186d\] http://innerinetwork.ygg
- - [Validator.InnerICoNomic](http://validator.innericonomic.hns.is/) - NOT ACTIVE 🛑
-# our [Landing Page Template](https://innerinetwork.gumroad.com/l/kysty?_gl=1*1tqq5ew*_ga*MTc5NTQzMjUxNi4xNjczMjA3MzUx*_ga_6LJN6D94N6*MTY3Mzc2MDg0MC4yMC4xLjE2NzM3NjE3MzMuMC4wLjA.) and our [Easy, Fast and Cheap eCommerce Income Generator Template](https://innerinetwork.gumroad.com/l/bncrho?_gl=1*hyp5za*_ga*MTc5NTQzMjUxNi4xNjczMjA3MzUx*_ga_6LJN6D94N6*MTY3Mzc2MDg0MC4yMC4xLjE2NzM3NjE3MzMuMC4wLjA.)   
+ - [Validator.InnerICoNomic](http://validator.innericonomic.hns.to/) - NOT ACTIVE 🛑
+# our [Landing Page Template](https://innerinetwork.gumroad.com/l/kysty?_gl=1*1tqq5ew*_ga*MTc5NTQzMjUxNi4xNjczMjA3MzUx*_ga_6LJN6D94N6*MTY3Mzc2MDg0MC4yMC4xLjE2NzM3NjE3MzMuMC4wLjA.) and our [Easy, Fast and Cheap eCommerce Income Generator Template](https://innerinetwork.gumroad.com/l/bncrho?_gl=1*hyp5za*_ga*MTc5NTQzMjUxNi4xNjczMjA3MzUx*_ga_6LJN6D94N6*MTY3Mzc2M0MC4yMC4xLjE2NzM3NjE3MzMuMC4wLjA.)   
 
 
 

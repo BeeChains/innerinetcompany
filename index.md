@@ -47,11 +47,11 @@ head.appendChild(script);
     })
 </script> 
    
-   <div id="chat_content"></div>
+<div id="chat_content"></div>
 <script src="https://messenger.ebiai.app/static/js/main.js"></script>
 <script>
   window.chatBot.init({
-    client:"66035cf9f96f2c242957dc7a",
+    client: "66035cf9f96f2c242957dc7a",
     pipeline: "66035d05c586ec7b59764e4c"
   });
 </script>

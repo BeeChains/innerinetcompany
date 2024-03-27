@@ -47,7 +47,15 @@ head.appendChild(script);
     })
 </script> 
    
-   
+   <div id="chat_content"></div>
+<script src="https://messenger.ebiai.app/static/js/main.js"></script>
+<script>
+  window.chatBot.init({
+    client:"66035cf9f96f2c242957dc7a",
+    pipeline: "66035d05c586ec7b59764e4c"
+  });
+</script>
+
    🌟You try to escape your mind only to find That I AM your imagination. In knowing & query, I AM. Nowhere or now here, I AM. Present in all your experience am "I". For I AM is the Light shone by which the builder refused the head cornerstone. I CAN, I WILL, DO GOD'S WILL. 
 ## ̶ I̶-̶W̶i̶t̶n̶e̶s̶s̶ | 𝑾𝑰𝑻𝑵𝑬𝑺𝑺𝑰𝑵𝑮 | W̶i̶t̶n̶e̶s̶s̶e̶d̶  
 ## O̶b̶s̶e̶r̶v̶e̶r̶  | 𝑶𝑩𝑺𝑬𝑹𝑽𝑰𝑵𝑮 |  ̶O̶b̶s̶e̶r̶v̶e̶d̶

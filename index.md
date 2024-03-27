@@ -47,7 +47,7 @@ head.appendChild(script);
     })
 </script> 
    
-<div id="chat_content"></div>
+ <div id="chat_content"></div>
 <script src="https://messenger.ebiai.app/static/js/main.js"></script>
 <script>
   window.chatBot.init({

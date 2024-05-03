@@ -61,6 +61,12 @@ head.appendChild(script);
      
 ## | [InnerINetwork/](http://innerinetwork.hns.to/) | [innerinetwork.webflow.io](https://innerinetwork.webflow.io/) |
 
+
+<a href="https://commerce.coinbase.com/checkout/8803d0d1-772d-472d-a6c0-a0800e8d4382">
+  <span>Payments or Tips with Crypto</span>
+</a>
+
+
 <iframe src="https://beta.pickaxeproject.com/axe?id=Inner_I_Network_RS1IZ&mode=embed&theme=light&opacity=100" width="100%" height="600px" onMouseOver="this.style.boxShadow='0 2px 2px 1px rgba(0,0,0,0.2)'" onMouseOut="this.style.boxShadow='none'" style="border:0;transition:.3s;" frameBorder="0"></iframe>
 
 [Tweet to @innerinetco](https://twitter.com/intent/tweet?screen_name=innerinetco&ref_src=twsrc%5Etfw)  

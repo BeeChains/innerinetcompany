@@ -87,15 +87,6 @@ head.appendChild(script);
          >
 AR.🐘🕸/ - MoneyLanguage.𓇋𓅱𓀀𓊃𓅓𓏞𓀀/ - InnerINetwork/ - Handshake Domains 🤝
 </marquee>
-  
-<form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
-  <input type="hidden" name="amount" value="100" />
-  <input type="hidden" name="email" value="customer@example.com" />
-  <input type="hidden" name="orderId" value="CustomOrderId" />
-  <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
-  <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
-  <button type="submit">Pay or Donate Here</button>
-</form>
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://innerinetwork.gumroad.com/l/handshakenft">Buy and Download HandshakeNFT</a>
